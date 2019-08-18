@@ -1,0 +1,1114 @@
+{
+	"groups": [
+		{
+			"keys": "main_preload_json",
+			"name": "preload"
+		},
+		{
+			"keys": "hand_click_json,hand_click_png,ie_right_light_json,ie_right_light_png,ie_v2_bg2_png,music_ani_json,music_ani_png,light_live_1_2_1_bg_png,light_teach_1_2_1_bg_png,ie_v2_bg3_png,common_all_json,common_all_num_json",
+			"name": "all_common"
+		},
+		{
+			"keys": "common_click_mp3,effect_bingo_3_mp3,effect_error_2_mp3,common_count_sound_mp3,common_count_sound2_mp3,common_count_sound3_mp3,common_count_sound4_mp3",
+			"name": "all_sound"
+		},
+		{
+			"keys": "IE_Math_1_2_Config_json,IExercisesConfig2_json,IExercisesConfig1_json,IExercisesConfig3_json,lightTrainConfig_json,TrainingConfig1_json,TrainingConfig2_json,TrainingConfig3_json,IT_Math_1_2_Config_json,IE_Math_1_1_Config_json,IT_Math_1_1_Config_json,IE_Math_1_5_Config_json,IExercisesConfig4_json,TrainingConfig4_json,IE_Math_1_3_Config_json,IE_Math_1_4_Config_json,IT_Math_1_3_Config_json,IT_Math_1_4_Config_json,IT_Math_1_5_Config_json",
+			"name": "all_config"
+		},
+		{
+			"keys": "it_math_1_4_1_png,it_math_1_4_3_png,it_math_1_4_5_png,it_math_1_4_7_png,it_math_1_4_9_png,it_math_1_4_common_1_png",
+			"name": "it_math_1_4"
+		},
+		{
+			"keys": "it_math_1_1_bg1_png,it_math_1_1_bg2_png,it_math_1_1_bg3_png,it_math_1_1_bg4_png,it_math_1_1_bg5_png,it_math_1_1_bg6_png,it_math_1_1_bg7_png,it_math_1_1_bg8_png,it_math_1_1_bg9_png,it_math_1_1_bg10_png,it_math_1_1_common_1_png,it_math_1_1_common_2_png,it_math_1_1_common_3_png,it_math_1_1_1_mp3,it_math_1_1_2_mp3,it_math_1_1_3_mp3,it_math_1_1_4_mp3,it_math_1_1_5_mp3,it_math_1_1_common_4_png",
+			"name": "it_math_1_1"
+		},
+		{
+			"keys": "it_math_1_2_bg1_png,it_math_1_2_bg2_png,it_math_1_2_bg3_png,it_math_1_2_bg4_png,it_math_1_2_bg5_png,it_math_1_2_bg6_png,it_math_1_2_bg7_png,it_math_1_2_bg8_png,it_math_1_2_bg9_png,it_math_1_2_bg10_png,it_math_1_2_common1_png,it_math_1_2_1_mp3,it_math_1_2_2_mp3,it_math_1_2_3_mp3,it_math_1_2_4_mp3,it_math_1_2_5_mp3,it_math_1_2_6_mp3,it_math_1_2_7_mp3,it_math_1_2_8_mp3,it_math_1_2_9_mp3,it_math_1_2_10_mp3",
+			"name": "it_math_1_2"
+		},
+		{
+			"keys": "it4_s1_bg2_png,it4_s1_bg1_png,it4_s1_bg3_png,it4_s1_bg4_png,it4_s1_bg6_png,it4_s1_bg5_png,it4_s1_bg7_png",
+			"name": "itraining4_1"
+		},
+		{
+			"keys": "it3_s_bg1_png,it3_s_bg2_png,it3_s_bg3_png,it3_s_bg4_png,it3_s_bg5_png,it3_s_bg6_png,it3_s_bg7_png,it3_s_img_num_0_png,it3_s_img_num_1_png,it3_s_img_num_2_png,it3_s_img_num_3_png,it3_s_img_num_4_png,it3_s_img_num_5_png,it3_s_img_num_6_png,it3_s_img_num_7_png,it3_s_img_num_8_png,it3_s_img_num_9_png,it3_s_img1_png,it3_s_img2_png,ie3_music_1_mp3,ie3_music_2_mp3,ie3_music_3_mp3,ie3_music_4_mp3",
+			"name": "itraining3_1"
+		},
+		{
+			"keys": "it2_s1_bg1_png,it2_s1_bg2_png,it2_s1_bg3_png,it2_s1_bg4_png,it2_s1_bg6_png,it2_s1_bg5_png,it2_s1_bg7_png",
+			"name": "itraining2_1"
+		},
+		{
+			"keys": "it1_s1_bg2_png,it1_s1_bg1_png,it1_s1_bg3_png,it1_s1_bg4_png,it1_s1_bg5_png,it1_s1_bg7_png,it1_s1_bg6_png,it1_s1_bg8_png,it1_s1_common_1_png,it1_s1_common_2_png,light_live_count_2_1_png,light_teach_count_2_1_png",
+			"name": "itraining1_1"
+		},
+		{
+			"keys": "ie2_s_bg2_png,ie2_s_bg1_png,ie2_s_bg3_png,ie2_s_bg4_png,ie2_s_bg5_png,ie2_s_img1_png,light_teach_count_1_1_png,light_live_count_1_1_png",
+			"name": "iexercises2_1"
+		},
+		{
+			"keys": "ie4_s_common_1_png,ie4_s_bg1_png,ie4_s_bg3_png,ie4_s_bg2_png",
+			"name": "iexercises4_1"
+		},
+		{
+			"keys": "ie_s_bg1_png,ie_s_bg2_png,ie_s_bg3_png,ie_s_bg4_png,ie_s_common_1_png,ie_s_common_2_png,ie_s_music_1_mp3,ie_s_music_2_mp3",
+			"name": "iexercises1_1"
+		},
+		{
+			"keys": "it3_s1_bg1_png,it3_a2_img1_png,it3_a2_img2_png,it3_a2_img3_png,it3_a1_bg2_png,light_live_v1_bg_png,light_teach_v1_bg_png,ie3_s1_bg4_png,ie3_s1_bg2_png,ie3_s1_bg1_png,ie3_s1_bg3_png,ie3_commmon_img3_png,ie3_commmon_img1_png,ie3_commmon_img4_png,ie3_commmon_img2_png,ie3_commmon_c_png,ie3_commmon_d_png,ie3_commmon_1_png,ie3_commmon_a_png,ie3_commmon_b_png",
+			"name": "iexercises3_1"
+		},
+		{
+			"keys": "",
+			"name": "ie_math_1_5"
+		},
+		{
+			"keys": "ie_math_1_4_bg1_png,ie_math_1_4_bg2_png,ie_math_1_4_bg3_png,ie_math_1_4_common_1_png",
+			"name": "ie_math_1_4"
+		},
+		{
+			"keys": "",
+			"name": "ie_math_1_3"
+		},
+		{
+			"keys": "ie_math_1_2_bg1_png,ie_math_1_2_bg2_png,ie_math_1_2_common1_png,ie_math_1_2_common2_png,ie_math_1_2_bg3_png,ie_math_1_2_common3_png,ie_math_1_2_music_1_mp3,ie_math_1_2_music_2_mp3,ie_math_1_2_music_3_mp3",
+			"name": "ie_math_1_2"
+		},
+		{
+			"keys": "light_live_1_1_1_png,light_teach_1_1_1_png,ie_math_1_1_bg3_png,ie_math_1_1_bg1_png,ie_math_1_1_common_2_png,ie_math_1_1_bg2_png,ie_math_1_1_common_3_png,ie_math_1_1_common_1_png,ie_math_1_1_common_5_png,ie_math_1_1_common_4_png,ie_math_1_1_music_1_mp3,ie_math_1_1_music_2_mp3,ie_math_1_1_music_3_mp3,ie_math_1_1_common_6_png,ie_math_1_1_bg4_png,ie_math_1_1_common_7_png,ie_math_1_1_common_8_png,ie_math_1_1_common_9_png",
+			"name": "ie_math_1_1"
+		}
+	],
+	"resources": [
+		{
+			"url": "gamemain/assets/ineractive/ie3/it3_s1_bg1.png",
+			"type": "image",
+			"name": "it3_s1_bg1_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie3/it3_a2_img1.png",
+			"type": "image",
+			"name": "it3_a2_img1_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie3/it3_a2_img2.png",
+			"type": "image",
+			"name": "it3_a2_img2_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie3/it3_a2_img3.png",
+			"type": "image",
+			"name": "it3_a2_img3_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie3/it3_a1_bg2.png",
+			"type": "image",
+			"name": "it3_a1_bg2_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie3/light_live_v1_bg.png",
+			"type": "image",
+			"name": "light_live_v1_bg_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie3/light_teach_v1_bg.png",
+			"type": "image",
+			"name": "light_teach_v1_bg_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie3/ie3_s1_bg4.png",
+			"type": "image",
+			"name": "ie3_s1_bg4_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie3/ie3_s1_bg2.png",
+			"type": "image",
+			"name": "ie3_s1_bg2_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie3/ie3_s1_bg1.png",
+			"type": "image",
+			"name": "ie3_s1_bg1_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie3/ie3_s1_bg3.png",
+			"type": "image",
+			"name": "ie3_s1_bg3_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie3/ie3_commmon_img3.png",
+			"type": "image",
+			"name": "ie3_commmon_img3_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie3/ie3_commmon_img1.png",
+			"type": "image",
+			"name": "ie3_commmon_img1_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie3/ie3_commmon_img4.png",
+			"type": "image",
+			"name": "ie3_commmon_img4_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie3/ie3_commmon_img2.png",
+			"type": "image",
+			"name": "ie3_commmon_img2_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie3/ie3_commmon_c.png",
+			"type": "image",
+			"name": "ie3_commmon_c_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie3/ie3_commmon_d.png",
+			"type": "image",
+			"name": "ie3_commmon_d_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie3/ie3_commmon_1.png",
+			"type": "image",
+			"name": "ie3_commmon_1_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie3/ie3_commmon_a.png",
+			"type": "image",
+			"name": "ie3_commmon_a_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie3/ie3_commmon_b.png",
+			"type": "image",
+			"name": "ie3_commmon_b_png"
+		},
+		{
+			"url": "gamemain/assets/training/it3/it3_s_bg1.png",
+			"type": "image",
+			"name": "it3_s_bg1_png"
+		},
+		{
+			"url": "gamemain/assets/training/it3/it3_s_bg2.png",
+			"type": "image",
+			"name": "it3_s_bg2_png"
+		},
+		{
+			"url": "gamemain/assets/training/it3/it3_s_bg3.png",
+			"type": "image",
+			"name": "it3_s_bg3_png"
+		},
+		{
+			"url": "gamemain/assets/training/it3/it3_s_bg4.png",
+			"type": "image",
+			"name": "it3_s_bg4_png"
+		},
+		{
+			"url": "gamemain/assets/training/it3/it3_s_bg5.png",
+			"type": "image",
+			"name": "it3_s_bg5_png"
+		},
+		{
+			"url": "gamemain/assets/training/it3/it3_s_bg6.png",
+			"type": "image",
+			"name": "it3_s_bg6_png"
+		},
+		{
+			"url": "gamemain/assets/training/it3/it3_s_bg7.png",
+			"type": "image",
+			"name": "it3_s_bg7_png"
+		},
+		{
+			"url": "gamemain/assets/training/it3/it3_s_img_num_0.png",
+			"type": "image",
+			"name": "it3_s_img_num_0_png"
+		},
+		{
+			"url": "gamemain/assets/training/it3/it3_s_img_num_1.png",
+			"type": "image",
+			"name": "it3_s_img_num_1_png"
+		},
+		{
+			"url": "gamemain/assets/training/it3/it3_s_img_num_2.png",
+			"type": "image",
+			"name": "it3_s_img_num_2_png"
+		},
+		{
+			"url": "gamemain/assets/training/it3/it3_s_img_num_3.png",
+			"type": "image",
+			"name": "it3_s_img_num_3_png"
+		},
+		{
+			"url": "gamemain/assets/training/it3/it3_s_img_num_4.png",
+			"type": "image",
+			"name": "it3_s_img_num_4_png"
+		},
+		{
+			"url": "gamemain/assets/training/it3/it3_s_img_num_5.png",
+			"type": "image",
+			"name": "it3_s_img_num_5_png"
+		},
+		{
+			"url": "gamemain/assets/training/it3/it3_s_img_num_6.png",
+			"type": "image",
+			"name": "it3_s_img_num_6_png"
+		},
+		{
+			"url": "gamemain/assets/training/it3/it3_s_img_num_7.png",
+			"type": "image",
+			"name": "it3_s_img_num_7_png"
+		},
+		{
+			"url": "gamemain/assets/training/it3/it3_s_img_num_8.png",
+			"type": "image",
+			"name": "it3_s_img_num_8_png"
+		},
+		{
+			"url": "gamemain/assets/training/it3/it3_s_img_num_9.png",
+			"type": "image",
+			"name": "it3_s_img_num_9_png"
+		},
+		{
+			"url": "gamemain/assets/training/it3/it3_s_img1.png",
+			"type": "image",
+			"name": "it3_s_img1_png"
+		},
+		{
+			"url": "gamemain/assets/training/it3/it3_s_img2.png",
+			"type": "image",
+			"name": "it3_s_img2_png"
+		},
+		{
+			"url": "gamemain/config/IExercisesConfig2.json",
+			"type": "json",
+			"name": "IExercisesConfig2_json"
+		},
+		{
+			"url": "gamemain/config/IExercisesConfig1.json",
+			"type": "json",
+			"name": "IExercisesConfig1_json"
+		},
+		{
+			"url": "gamemain/config/IExercisesConfig3.json",
+			"type": "json",
+			"name": "IExercisesConfig3_json"
+		},
+		{
+			"url": "gamemain/config/lightTrainConfig.json",
+			"type": "json",
+			"name": "lightTrainConfig_json"
+		},
+		{
+			"url": "gamemain/config/TrainingConfig1.json",
+			"type": "json",
+			"name": "TrainingConfig1_json"
+		},
+		{
+			"url": "gamemain/config/TrainingConfig2.json",
+			"type": "json",
+			"name": "TrainingConfig2_json"
+		},
+		{
+			"url": "gamemain/config/TrainingConfig3.json",
+			"type": "json",
+			"name": "TrainingConfig3_json"
+		},
+		{
+			"url": "gamemain/assets/common/common_click.mp3",
+			"type": "sound",
+			"name": "common_click_mp3"
+		},
+		{
+			"url": "gamemain/assets/common/effect_bingo_3.mp3",
+			"type": "sound",
+			"name": "effect_bingo_3_mp3"
+		},
+		{
+			"url": "gamemain/assets/common/effect_error_2.mp3",
+			"type": "sound",
+			"name": "effect_error_2_mp3"
+		},
+		{
+			"url": "gamemain/assets/common/hand_click.json",
+			"type": "json",
+			"name": "hand_click_json"
+		},
+		{
+			"url": "gamemain/assets/common/hand_click.png",
+			"type": "image",
+			"name": "hand_click_png"
+		},
+		{
+			"url": "gamemain/assets/common/ie_right_light.json",
+			"type": "json",
+			"name": "ie_right_light_json"
+		},
+		{
+			"url": "gamemain/assets/common/ie_right_light.png",
+			"type": "image",
+			"name": "ie_right_light_png"
+		},
+		{
+			"url": "gamemain/assets/common/ie_v2_bg2.png",
+			"type": "image",
+			"name": "ie_v2_bg2_png"
+		},
+		{
+			"url": "gamemain/assets/common/music_ani.json",
+			"type": "json",
+			"name": "music_ani_json"
+		},
+		{
+			"url": "gamemain/assets/common/music_ani.png",
+			"type": "image",
+			"name": "music_ani_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie3/ie3_music_1.mp3",
+			"type": "sound",
+			"name": "ie3_music_1_mp3"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie3/ie3_music_2.mp3",
+			"type": "sound",
+			"name": "ie3_music_2_mp3"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie3/ie3_music_3.mp3",
+			"type": "sound",
+			"name": "ie3_music_3_mp3"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie3/ie3_music_4.mp3",
+			"type": "sound",
+			"name": "ie3_music_4_mp3"
+		},
+		{
+			"url": "gamemain/assets/training/it_math_1_2/it_math_1_2_bg1.png",
+			"type": "image",
+			"name": "it_math_1_2_bg1_png"
+		},
+		{
+			"url": "gamemain/assets/training/it_math_1_2/it_math_1_2_bg2.png",
+			"type": "image",
+			"name": "it_math_1_2_bg2_png"
+		},
+		{
+			"url": "gamemain/assets/training/it_math_1_2/it_math_1_2_bg3.png",
+			"type": "image",
+			"name": "it_math_1_2_bg3_png"
+		},
+		{
+			"url": "gamemain/assets/training/it_math_1_2/it_math_1_2_bg4.png",
+			"type": "image",
+			"name": "it_math_1_2_bg4_png"
+		},
+		{
+			"url": "gamemain/assets/training/it_math_1_2/it_math_1_2_bg5.png",
+			"type": "image",
+			"name": "it_math_1_2_bg5_png"
+		},
+		{
+			"url": "gamemain/assets/training/it_math_1_2/it_math_1_2_bg6.png",
+			"type": "image",
+			"name": "it_math_1_2_bg6_png"
+		},
+		{
+			"url": "gamemain/assets/training/it_math_1_2/it_math_1_2_bg7.png",
+			"type": "image",
+			"name": "it_math_1_2_bg7_png"
+		},
+		{
+			"url": "gamemain/assets/training/it_math_1_2/it_math_1_2_bg8.png",
+			"type": "image",
+			"name": "it_math_1_2_bg8_png"
+		},
+		{
+			"url": "gamemain/assets/training/it_math_1_2/it_math_1_2_bg9.png",
+			"type": "image",
+			"name": "it_math_1_2_bg9_png"
+		},
+		{
+			"url": "gamemain/assets/training/it_math_1_2/it_math_1_2_bg10.png",
+			"type": "image",
+			"name": "it_math_1_2_bg10_png"
+		},
+		{
+			"url": "gamemain/assets/training/it_math_1_2/it_math_1_2_common1.png",
+			"type": "image",
+			"name": "it_math_1_2_common1_png"
+		},
+		{
+			"url": "gamemain/config/IT_Math_1_2_Config.json",
+			"type": "json",
+			"name": "IT_Math_1_2_Config_json"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie_math_1_2/ie_math_1_2_bg1.png",
+			"type": "image",
+			"name": "ie_math_1_2_bg1_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie_math_1_2/ie_math_1_2_bg2.png",
+			"type": "image",
+			"name": "ie_math_1_2_bg2_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie_math_1_2/ie_math_1_2_common1.png",
+			"type": "image",
+			"name": "ie_math_1_2_common1_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie_math_1_2/ie_math_1_2_common2.png",
+			"type": "image",
+			"name": "ie_math_1_2_common2_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie_math_1_2/ie_math_1_2_bg3.png",
+			"type": "image",
+			"name": "ie_math_1_2_bg3_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie_math_1_2/ie_math_1_2_common3.png",
+			"type": "image",
+			"name": "ie_math_1_2_common3_png"
+		},
+		{
+			"url": "gamemain/config/IE_Math_1_2_Config.json",
+			"type": "json",
+			"name": "IE_Math_1_2_Config_json"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie_math_1_2/light_live_1_2_1_bg.png",
+			"type": "image",
+			"name": "light_live_1_2_1_bg_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie_math_1_2/light_teach_1_2_1_bg.png",
+			"type": "image",
+			"name": "light_teach_1_2_1_bg_png"
+		},
+		{
+			"url": "gamemain/assets/common/common_count_sound.mp3",
+			"type": "sound",
+			"name": "common_count_sound_mp3"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie2/ie2_s_bg2.png",
+			"type": "image",
+			"name": "ie2_s_bg2_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie2/ie2_s_bg1.png",
+			"type": "image",
+			"name": "ie2_s_bg1_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie2/ie2_s_bg3.png",
+			"type": "image",
+			"name": "ie2_s_bg3_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie2/ie2_s_bg4.png",
+			"type": "image",
+			"name": "ie2_s_bg4_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie2/ie2_s_bg5.png",
+			"type": "image",
+			"name": "ie2_s_bg5_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie2/ie2_s_img1.png",
+			"type": "image",
+			"name": "ie2_s_img1_png"
+		},
+		{
+			"url": "gamemain/assets/common/common_count_sound2.mp3",
+			"type": "sound",
+			"name": "common_count_sound2_mp3"
+		},
+		{
+			"url": "gamemain/assets/common/common_count_sound3.mp3",
+			"type": "sound",
+			"name": "common_count_sound3_mp3"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie2/light_teach_count_1_1.png",
+			"type": "image",
+			"name": "light_teach_count_1_1_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie2/light_live_count_1_1.png",
+			"type": "image",
+			"name": "light_live_count_1_1_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie_math_1_2/ie_math_1_2_music_1.mp3",
+			"type": "sound",
+			"name": "ie_math_1_2_music_1_mp3"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie_math_1_2/ie_math_1_2_music_2.mp3",
+			"type": "sound",
+			"name": "ie_math_1_2_music_2_mp3"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie_math_1_2/ie_math_1_2_music_3.mp3",
+			"type": "sound",
+			"name": "ie_math_1_2_music_3_mp3"
+		},
+		{
+			"url": "gamemain/config/IE_Math_1_1_Config.json",
+			"type": "json",
+			"name": "IE_Math_1_1_Config_json"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie_math_1_1/light_live_1_1_1.png",
+			"type": "image",
+			"name": "light_live_1_1_1_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie_math_1_1/light_teach_1_1_1.png",
+			"type": "image",
+			"name": "light_teach_1_1_1_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie_math_1_1/ie_math_1_1_bg3.png",
+			"type": "image",
+			"name": "ie_math_1_1_bg3_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie_math_1_1/ie_math_1_1_bg1.png",
+			"type": "image",
+			"name": "ie_math_1_1_bg1_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie_math_1_1/ie_math_1_1_common_2.png",
+			"type": "image",
+			"name": "ie_math_1_1_common_2_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie_math_1_1/ie_math_1_1_bg2.png",
+			"type": "image",
+			"name": "ie_math_1_1_bg2_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie_math_1_1/ie_math_1_1_common_3.png",
+			"type": "image",
+			"name": "ie_math_1_1_common_3_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie_math_1_1/ie_math_1_1_common_1.png",
+			"type": "image",
+			"name": "ie_math_1_1_common_1_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie_math_1_1/ie_math_1_1_common_5.png",
+			"type": "image",
+			"name": "ie_math_1_1_common_5_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie_math_1_1/ie_math_1_1_common_4.png",
+			"type": "image",
+			"name": "ie_math_1_1_common_4_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie_math_1_1/ie_math_1_1_music_1.mp3",
+			"type": "sound",
+			"name": "ie_math_1_1_music_1_mp3"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie_math_1_1/ie_math_1_1_music_2.mp3",
+			"type": "sound",
+			"name": "ie_math_1_1_music_2_mp3"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie_math_1_1/ie_math_1_1_music_3.mp3",
+			"type": "sound",
+			"name": "ie_math_1_1_music_3_mp3"
+		},
+		{
+			"url": "gamemain/assets/training/it_math_1_1/it_math_1_1_bg1.png",
+			"type": "image",
+			"name": "it_math_1_1_bg1_png"
+		},
+		{
+			"url": "gamemain/assets/training/it_math_1_1/it_math_1_1_bg2.png",
+			"type": "image",
+			"name": "it_math_1_1_bg2_png"
+		},
+		{
+			"url": "gamemain/assets/training/it_math_1_1/it_math_1_1_bg3.png",
+			"type": "image",
+			"name": "it_math_1_1_bg3_png"
+		},
+		{
+			"url": "gamemain/assets/training/it_math_1_1/it_math_1_1_bg4.png",
+			"type": "image",
+			"name": "it_math_1_1_bg4_png"
+		},
+		{
+			"url": "gamemain/assets/training/it_math_1_1/it_math_1_1_bg5.png",
+			"type": "image",
+			"name": "it_math_1_1_bg5_png"
+		},
+		{
+			"url": "gamemain/assets/training/it_math_1_1/it_math_1_1_bg6.png",
+			"type": "image",
+			"name": "it_math_1_1_bg6_png"
+		},
+		{
+			"url": "gamemain/assets/training/it_math_1_1/it_math_1_1_bg7.png",
+			"type": "image",
+			"name": "it_math_1_1_bg7_png"
+		},
+		{
+			"url": "gamemain/assets/training/it_math_1_1/it_math_1_1_bg8.png",
+			"type": "image",
+			"name": "it_math_1_1_bg8_png"
+		},
+		{
+			"url": "gamemain/assets/training/it_math_1_1/it_math_1_1_bg9.png",
+			"type": "image",
+			"name": "it_math_1_1_bg9_png"
+		},
+		{
+			"url": "gamemain/assets/training/it_math_1_1/it_math_1_1_bg10.png",
+			"type": "image",
+			"name": "it_math_1_1_bg10_png"
+		},
+		{
+			"url": "gamemain/assets/training/it_math_1_1/it_math_1_1_common_1.png",
+			"type": "image",
+			"name": "it_math_1_1_common_1_png"
+		},
+		{
+			"url": "gamemain/assets/training/it_math_1_1/it_math_1_1_common_2.png",
+			"type": "image",
+			"name": "it_math_1_1_common_2_png"
+		},
+		{
+			"url": "gamemain/assets/training/it_math_1_1/it_math_1_1_common_3.png",
+			"type": "image",
+			"name": "it_math_1_1_common_3_png"
+		},
+		{
+			"url": "gamemain/config/IT_Math_1_1_Config.json",
+			"type": "json",
+			"name": "IT_Math_1_1_Config_json"
+		},
+		{
+			"url": "gamemain/assets/training/it_math_1_1/it_math_1_1_common_4.png",
+			"type": "image",
+			"name": "it_math_1_1_common_4_png"
+		},
+		{
+			"url": "gamemain/assets/training/it_math_1_1/it_math_1_1_1.mp3",
+			"type": "sound",
+			"name": "it_math_1_1_1_mp3"
+		},
+		{
+			"url": "gamemain/assets/training/it_math_1_1/it_math_1_1_2.mp3",
+			"type": "sound",
+			"name": "it_math_1_1_2_mp3"
+		},
+		{
+			"url": "gamemain/assets/training/it_math_1_1/it_math_1_1_3.mp3",
+			"type": "sound",
+			"name": "it_math_1_1_3_mp3"
+		},
+		{
+			"url": "gamemain/assets/training/it_math_1_1/it_math_1_1_4.mp3",
+			"type": "sound",
+			"name": "it_math_1_1_4_mp3"
+		},
+		{
+			"url": "gamemain/assets/training/it_math_1_1/it_math_1_1_5.mp3",
+			"type": "sound",
+			"name": "it_math_1_1_5_mp3"
+		},
+		{
+			"url": "gamemain/assets/common/main_preload.json",
+			"type": "sheet",
+			"name": "main_preload_json",
+			"subkeys": "bg_ball_png,dolphin_arm_png,dolphin_png,font_loading_png,main_btn_duicuo_png,main_btn_finger_png,main_btn_out_png,main_btn_play_png,main_btn_puase_png"
+		},
+		{
+			"url": "gamemain/config/IE_Math_1_5_Config.json",
+			"type": "json",
+			"name": "IE_Math_1_5_Config_json"
+		},
+		{
+			"url": "gamemain/assets/common/ie_v2_bg3.png",
+			"type": "image",
+			"name": "ie_v2_bg3_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie_math_1_1/ie_math_1_1_common_6.png",
+			"type": "image",
+			"name": "ie_math_1_1_common_6_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie_math_1_1/ie_math_1_1_bg4.png",
+			"type": "image",
+			"name": "ie_math_1_1_bg4_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie_math_1_1/ie_math_1_1_common_7.png",
+			"type": "image",
+			"name": "ie_math_1_1_common_7_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie_math_1_1/ie_math_1_1_common_8.png",
+			"type": "image",
+			"name": "ie_math_1_1_common_8_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie_math_1_1/ie_math_1_1_common_9.png",
+			"type": "image",
+			"name": "ie_math_1_1_common_9_png"
+		},
+		{
+			"url": "gamemain/assets/training/it1/it1_s1_bg2.png",
+			"type": "image",
+			"name": "it1_s1_bg2_png"
+		},
+		{
+			"url": "gamemain/assets/training/it1/it1_s1_bg1.png",
+			"type": "image",
+			"name": "it1_s1_bg1_png"
+		},
+		{
+			"url": "gamemain/assets/training/it1/it1_s1_bg3.png",
+			"type": "image",
+			"name": "it1_s1_bg3_png"
+		},
+		{
+			"url": "gamemain/assets/training/it1/it1_s1_bg4.png",
+			"type": "image",
+			"name": "it1_s1_bg4_png"
+		},
+		{
+			"url": "gamemain/assets/training/it1/it1_s1_bg5.png",
+			"type": "image",
+			"name": "it1_s1_bg5_png"
+		},
+		{
+			"url": "gamemain/assets/training/it1/it1_s1_bg7.png",
+			"type": "image",
+			"name": "it1_s1_bg7_png"
+		},
+		{
+			"url": "gamemain/assets/training/it1/it1_s1_bg6.png",
+			"type": "image",
+			"name": "it1_s1_bg6_png"
+		},
+		{
+			"url": "gamemain/assets/training/it1/it1_s1_bg8.png",
+			"type": "image",
+			"name": "it1_s1_bg8_png"
+		},
+		{
+			"url": "gamemain/assets/training/it1/it1_s1_common_1.png",
+			"type": "image",
+			"name": "it1_s1_common_1_png"
+		},
+		{
+			"url": "gamemain/assets/training/it1/it1_s1_common_2.png",
+			"type": "image",
+			"name": "it1_s1_common_2_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie1/ie_s_bg1.png",
+			"type": "image",
+			"name": "ie_s_bg1_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie1/ie_s_bg2.png",
+			"type": "image",
+			"name": "ie_s_bg2_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie1/ie_s_bg3.png",
+			"type": "image",
+			"name": "ie_s_bg3_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie1/ie_s_bg4.png",
+			"type": "image",
+			"name": "ie_s_bg4_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie1/ie_s_common_1.png",
+			"type": "image",
+			"name": "ie_s_common_1_png"
+		},
+		{
+			"url": "gamemain/assets/ineractive/ie1/ie_s_common_2.png",
+			"type": "image",
+			"name": "ie_s_common_2_png"
+		},
+		{
+			"name": "light_live_count_2_1_png",
+			"type": "image",
+			"url": "gamemain/assets/ineractive/ie1/light_live_count_2_1.png"
+		},
+		{
+			"name": "light_teach_count_2_1_png",
+			"type": "image",
+			"url": "gamemain/assets/ineractive/ie1/light_teach_count_2_1.png"
+		},
+		{
+			"name": "it2_s1_bg1_png",
+			"type": "image",
+			"url": "gamemain/assets/training/it2/it2_s1_bg1.png"
+		},
+		{
+			"name": "it2_s1_bg2_png",
+			"type": "image",
+			"url": "gamemain/assets/training/it2/it2_s1_bg2.png"
+		},
+		{
+			"name": "it2_s1_bg3_png",
+			"type": "image",
+			"url": "gamemain/assets/training/it2/it2_s1_bg3.png"
+		},
+		{
+			"name": "it2_s1_bg4_png",
+			"type": "image",
+			"url": "gamemain/assets/training/it2/it2_s1_bg4.png"
+		},
+		{
+			"name": "it2_s1_bg6_png",
+			"type": "image",
+			"url": "gamemain/assets/training/it2/it2_s1_bg6.png"
+		},
+		{
+			"name": "it2_s1_bg5_png",
+			"type": "image",
+			"url": "gamemain/assets/training/it2/it2_s1_bg5.png"
+		},
+		{
+			"name": "it2_s1_bg7_png",
+			"type": "image",
+			"url": "gamemain/assets/training/it2/it2_s1_bg7.png"
+		},
+		{
+			"name": "it_math_1_2_1_mp3",
+			"type": "sound",
+			"url": "gamemain/assets/training/it_math_1_2/it_math_1_2_1.mp3"
+		},
+		{
+			"name": "it_math_1_2_2_mp3",
+			"type": "sound",
+			"url": "gamemain/assets/training/it_math_1_2/it_math_1_2_2.mp3"
+		},
+		{
+			"name": "it_math_1_2_3_mp3",
+			"type": "sound",
+			"url": "gamemain/assets/training/it_math_1_2/it_math_1_2_3.mp3"
+		},
+		{
+			"name": "it_math_1_2_4_mp3",
+			"type": "sound",
+			"url": "gamemain/assets/training/it_math_1_2/it_math_1_2_4.mp3"
+		},
+		{
+			"name": "it_math_1_2_5_mp3",
+			"type": "sound",
+			"url": "gamemain/assets/training/it_math_1_2/it_math_1_2_5.mp3"
+		},
+		{
+			"name": "it_math_1_2_6_mp3",
+			"type": "sound",
+			"url": "gamemain/assets/training/it_math_1_2/it_math_1_2_6.mp3"
+		},
+		{
+			"name": "it_math_1_2_7_mp3",
+			"type": "sound",
+			"url": "gamemain/assets/training/it_math_1_2/it_math_1_2_7.mp3"
+		},
+		{
+			"name": "it_math_1_2_8_mp3",
+			"type": "sound",
+			"url": "gamemain/assets/training/it_math_1_2/it_math_1_2_8.mp3"
+		},
+		{
+			"name": "it_math_1_2_9_mp3",
+			"type": "sound",
+			"url": "gamemain/assets/training/it_math_1_2/it_math_1_2_9.mp3"
+		},
+		{
+			"name": "it_math_1_2_10_mp3",
+			"type": "sound",
+			"url": "gamemain/assets/training/it_math_1_2/it_math_1_2_10.mp3"
+		},
+		{
+			"name": "it4_s1_bg2_png",
+			"type": "image",
+			"url": "gamemain/assets/training/it4/it4_s1_bg2.png"
+		},
+		{
+			"name": "it4_s1_bg1_png",
+			"type": "image",
+			"url": "gamemain/assets/training/it4/it4_s1_bg1.png"
+		},
+		{
+			"name": "it4_s1_bg3_png",
+			"type": "image",
+			"url": "gamemain/assets/training/it4/it4_s1_bg3.png"
+		},
+		{
+			"name": "it4_s1_bg4_png",
+			"type": "image",
+			"url": "gamemain/assets/training/it4/it4_s1_bg4.png"
+		},
+		{
+			"name": "it4_s1_bg6_png",
+			"type": "image",
+			"url": "gamemain/assets/training/it4/it4_s1_bg6.png"
+		},
+		{
+			"name": "it4_s1_bg5_png",
+			"type": "image",
+			"url": "gamemain/assets/training/it4/it4_s1_bg5.png"
+		},
+		{
+			"name": "it4_s1_bg7_png",
+			"type": "image",
+			"url": "gamemain/assets/training/it4/it4_s1_bg7.png"
+		},
+		{
+			"name": "TrainingConfig4_json",
+			"type": "json",
+			"url": "gamemain/config/TrainingConfig4.json"
+		},
+		{
+			"name": "ie_s_music_1_mp3",
+			"type": "sound",
+			"url": "gamemain/assets/ineractive/ie1/ie_s_music_1.mp3"
+		},
+		{
+			"name": "ie_s_music_2_mp3",
+			"type": "sound",
+			"url": "gamemain/assets/ineractive/ie1/ie_s_music_2.mp3"
+		},
+		{
+			"name": "IExercisesConfig4_json",
+			"type": "json",
+			"url": "gamemain/config/IExercisesConfig4.json"
+		},
+		{
+			"name": "ie4_s_common_1_png",
+			"type": "image",
+			"url": "gamemain/assets/ineractive/ie4/ie4_s_common_1.png"
+		},
+		{
+			"name": "ie4_s_bg1_png",
+			"type": "image",
+			"url": "gamemain/assets/ineractive/ie4/ie4_s_bg1.png"
+		},
+		{
+			"name": "ie4_s_bg3_png",
+			"type": "image",
+			"url": "gamemain/assets/ineractive/ie4/ie4_s_bg3.png"
+		},
+		{
+			"name": "ie4_s_bg2_png",
+			"type": "image",
+			"url": "gamemain/assets/ineractive/ie4/ie4_s_bg2.png"
+		},
+		{
+			"name": "IE_Math_1_3_Config_json",
+			"type": "json",
+			"url": "gamemain/config/IE_Math_1_3_Config.json"
+		},
+		{
+			"name": "IE_Math_1_4_Config_json",
+			"type": "json",
+			"url": "gamemain/config/IE_Math_1_4_Config.json"
+		},
+		{
+			"name": "IT_Math_1_3_Config_json",
+			"type": "json",
+			"url": "gamemain/config/IT_Math_1_3_Config.json"
+		},
+		{
+			"name": "IT_Math_1_4_Config_json",
+			"type": "json",
+			"url": "gamemain/config/IT_Math_1_4_Config.json"
+		},
+		{
+			"name": "IT_Math_1_5_Config_json",
+			"type": "json",
+			"url": "gamemain/config/IT_Math_1_5_Config.json"
+		},
+		{
+			"name": "ie_math_1_4_bg1_png",
+			"type": "image",
+			"url": "gamemain/assets/ineractive/ie_math_1_4/ie_math_1_4_bg1.png"
+		},
+		{
+			"name": "ie_math_1_4_bg2_png",
+			"type": "image",
+			"url": "gamemain/assets/ineractive/ie_math_1_4/ie_math_1_4_bg2.png"
+		},
+		{
+			"name": "ie_math_1_4_bg3_png",
+			"type": "image",
+			"url": "gamemain/assets/ineractive/ie_math_1_4/ie_math_1_4_bg3.png"
+		},
+		{
+			"name": "ie_math_1_4_common_1_png",
+			"type": "image",
+			"url": "gamemain/assets/ineractive/ie_math_1_4/ie_math_1_4_common_1.png"
+		},
+		{
+			"name": "it_math_1_4_1_png",
+			"type": "image",
+			"url": "gamemain/assets/training/it_math_1_4/it_math_1_4_1.png"
+		},
+		{
+			"name": "it_math_1_4_3_png",
+			"type": "image",
+			"url": "gamemain/assets/training/it_math_1_4/it_math_1_4_3.png"
+		},
+		{
+			"name": "it_math_1_4_5_png",
+			"type": "image",
+			"url": "gamemain/assets/training/it_math_1_4/it_math_1_4_5.png"
+		},
+		{
+			"name": "it_math_1_4_7_png",
+			"type": "image",
+			"url": "gamemain/assets/training/it_math_1_4/it_math_1_4_7.png"
+		},
+		{
+			"name": "it_math_1_4_9_png",
+			"type": "image",
+			"url": "gamemain/assets/training/it_math_1_4/it_math_1_4_9.png"
+		},
+		{
+			"name": "it_math_1_4_common_1_png",
+			"type": "image",
+			"url": "gamemain/assets/training/it_math_1_4/it_math_1_4_common_1.png"
+		},
+		{
+			"name": "common_count_sound4_mp3",
+			"type": "sound",
+			"url": "gamemain/assets/common/common_count_sound4.mp3"
+		},
+		{
+			"name": "common_all_json",
+			"type": "sheet",
+			"url": "gamemain/assets/common/common_all.json",
+			"subkeys": "ie_common_4_png,ie_common_5_png,it1_s1_cor9_png,ite_common_close_png,ie_common_7_png,ie_common_6_png,ie_common_time_1_png,it1_s1_cor8_png,ie_common_reset_1_png,ie_common_2_png,ie_common_3_png,common_skip_png,ie_common_1_png,it1_s1_cor10_png,ie_common_1008_png,ie_v_play_png,ie_common_10_png,common_reset_png,ie_right_img2_png,it1_s1_cor3_png,ie_common_1005_png,ie_common_1004_png,ie_v2_img2_png,it1_s1_cor2_png,ie_right_img3_png,ie_right_img1_png,ie_common_1006_png,ie_common_1007_png,ie_v2_img1_png,it1_s1_cor1_png,ie_right_img4_png,it1_s1_cor5_png,ie_common_1003_png,ie_common_1002_png,it1_s1_cor4_png,common_continue_png,ie_right_img5_png,it1_s1_cor6_png,common_exit_png,ie_common_9_png,ie_common_1001_png,it1_s1_cor7_png,ie_right_img6_png"
+		},
+		{
+			"name": "common_all_num_json",
+			"type": "sheet",
+			"url": "gamemain/assets/common/common_all_num.json",
+			"subkeys": "ie2_commmon_num_8_png,ie2_commmon_num_9_png,ie_commmon_1_num_1_png,ie_commmon_2_num_9_png,ie_commmon_2_num_8_png,ie_commmon_1_num_0_png,ie_commmon_1_num_2_png,ie_commmon_1_num_3_png,ie_commmon_1_num_7_png,ie_commmon_1_num_6_png,ie_commmon_1_num_4_png,ie_commmon_1_num_5_png,ie_commmon_1_num_8_png,ie_commmon_2_num_0_png,ie_commmon_2_num_1_png,ie_commmon_1_num_9_png,ie_commmon_2_num_3_png,ie_commmon_2_num_2_png,ie_commmon_2_num_6_png,ie_commmon_2_num_7_png,ie_commmon_2_num_5_png,ie_commmon_2_num_4_png,ie2_commmon_num_1_png,ie2_commmon_num_0_png,ie2_commmon_num_2_png,ie2_commmon_num_3_png,ie2_commmon_num_7_png,ie2_commmon_num_6_png,ie2_commmon_num_4_png,ie2_commmon_num_5_png"
+		}
+	]
+}

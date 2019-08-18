@@ -1,0 +1,18 @@
+{
+	"skins": {},
+	"autoGenerateExmlsList": false,
+	"exmls": [
+		"resource/gamemain/game_skins/Interactive/IE1/IExercises1_1_Skin.exml",
+		"resource/gamemain/game_skins/Interactive/IE1/IExercises1_2_Skin.exml",
+		"resource/gamemain/game_skins/Interactive/IE1/IExercises1_3_Skin.exml",
+		"resource/gamemain/game_skins/Interactive/IE1/IExercises1_4_Skin.exml",
+		"resource/gamemain/game_skins/Training/It2/ITraining2_1_Skin.exml",
+		"resource/gamemain/game_skins/Training/It2/ITraining2_2_Skin.exml",
+		"resource/gamemain/game_skins/Training/It2/ITraining2_3_Skin.exml",
+		"resource/gamemain/game_skins/Training/It2/ITraining2_4_Skin.exml",
+		"resource/gamemain/game_skins/Training/It2/ITraining2_5_Skin.exml",
+		"resource/gamemain/game_skins/Training/It2/ITraining2_6_Skin.exml",
+		"resource/gamemain/game_skins/Training/It2/ITraining2_7_Skin.exml"
+	],
+	"path": "resource/gamemain/thmjson/course_2.thm.json"
+}

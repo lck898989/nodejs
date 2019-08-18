@@ -1,0 +1,20 @@
+{
+	"skins": {},
+	"autoGenerateExmlsList": false,
+	"exmls": [
+		"resource/gamemain/game_skins/Interactive/IE_Math_1_2/IE_Math_1_2_1_Skin.exml",
+		"resource/gamemain/game_skins/Interactive/IE_Math_1_2/IE_Math_1_2_2_Skin.exml",
+		"resource/gamemain/game_skins/Interactive/IE_Math_1_2/IE_Math_1_2_3_Skin.exml",
+		"resource/gamemain/game_skins/Training/it_math_1_2/IT_Math_1_2_1_Skin.exml",
+		"resource/gamemain/game_skins/Training/it_math_1_2/IT_Math_1_2_10_Skin.exml",
+		"resource/gamemain/game_skins/Training/it_math_1_2/IT_Math_1_2_2_Skin.exml",
+		"resource/gamemain/game_skins/Training/it_math_1_2/IT_Math_1_2_3_Skin.exml",
+		"resource/gamemain/game_skins/Training/it_math_1_2/IT_Math_1_2_4_Skin.exml",
+		"resource/gamemain/game_skins/Training/it_math_1_2/IT_Math_1_2_5_Skin.exml",
+		"resource/gamemain/game_skins/Training/it_math_1_2/IT_Math_1_2_6_Skin.exml",
+		"resource/gamemain/game_skins/Training/it_math_1_2/IT_Math_1_2_7_Skin.exml",
+		"resource/gamemain/game_skins/Training/it_math_1_2/IT_Math_1_2_8_Skin.exml",
+		"resource/gamemain/game_skins/Training/it_math_1_2/IT_Math_1_2_9_Skin.exml"
+	],
+	"path": "resource/gamemain/thmjson/course_6.thm.json"
+}

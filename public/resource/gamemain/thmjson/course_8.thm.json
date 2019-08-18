@@ -1,0 +1,15 @@
+{
+	"skins": {},
+	"autoGenerateExmlsList": false,
+	"exmls": [
+		"resource/gamemain/game_skins/Interactive/IE_Math_1_4/IE_Math_1_4_1_Skin.exml",
+		"resource/gamemain/game_skins/Interactive/IE_Math_1_4/IE_Math_1_4_2_Skin.exml",
+		"resource/gamemain/game_skins/Interactive/IE_Math_1_4/IE_Math_1_4_3_Skin.exml",
+		"resource/gamemain/game_skins/Training/it_math_1_4/IT_Math_1_4_1_Skin.exml",
+		"resource/gamemain/game_skins/Training/it_math_1_4/IT_Math_1_4_2_Skin.exml",
+		"resource/gamemain/game_skins/Training/it_math_1_4/IT_Math_1_4_3_Skin.exml",
+		"resource/gamemain/game_skins/Training/it_math_1_4/IT_Math_1_4_4_Skin.exml",
+		"resource/gamemain/game_skins/Training/it_math_1_4/IT_Math_1_4_5_Skin.exml"
+	],
+	"path": "resource/gamemain/thmjson/course_8.thm.json"
+}

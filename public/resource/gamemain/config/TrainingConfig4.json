@@ -1,0 +1,12 @@
+{
+"2": 
+    [
+        { "name":"ITraining4_1" , "curLoad": "itraining4_1", "data":{"name":"21-7-3=？", "step":1, "sort":1, "id":1, "result":11, "section":1, "total":7, "tv":"https://hes-courseware.oss-cn-beijing.aliyuncs.com/LightLessons/count_4/light_train_v1.mp4", "sound":"common_count_sound4_mp3"}},
+        { "name":"ITraining4_2" , "curLoad": "itraining4_1", "data":{"name":"32-15-5=？", "step":2, "sort":2, "id":2, "result":12, "section":1, "total":7, "tv":"https://hes-courseware.oss-cn-beijing.aliyuncs.com/LightLessons/count_4/light_train_v2.mp4", "sound":"common_count_sound4_mp3"}},
+        { "name":"ITraining4_3" , "curLoad": "itraining4_1", "data":{"name":"46-9-11=？", "step":3, "sort":3, "id":3, "result":26, "section":1, "total":7, "tv":"https://hes-courseware.oss-cn-beijing.aliyuncs.com/LightLessons/count_4/light_train_v3.mp4", "sound":"common_count_sound4_mp3"}},
+        { "name":"ITraining4_4" , "curLoad": "itraining4_1", "data":{"name":"23-8-3=？", "step":4, "sort":4, "id":4, "result":12, "section":1, "total":7, "tv":"https://hes-courseware.oss-cn-beijing.aliyuncs.com/LightLessons/count_4/light_train_v4.mp4", "sound":"common_count_sound4_mp3"}},
+        { "name":"ITraining4_5" , "curLoad": "itraining4_1", "data":{"name":"31-7-1=？", "step":5, "sort":5, "id":5, "result":23, "section":1, "total":7, "tv":"https://hes-courseware.oss-cn-beijing.aliyuncs.com/LightLessons/count_4/light_train_v5.mp4", "sound":"common_count_sound4_mp3"}},
+        { "name":"ITraining4_6" , "curLoad": "itraining4_1", "data":{"name":"35+8-5=？", "step":6, "sort":6, "id":6, "result":38, "section":1, "total":7, "tv":"https://hes-courseware.oss-cn-beijing.aliyuncs.com/LightLessons/count_4/light_train_v6.mp4", "sound":"common_count_sound4_mp3"}},
+        { "name":"ITraining4_7" , "curLoad": "itraining4_1", "data":{"name":"47-6+3=？", "step":7, "sort":7, "id":7, "result":44, "section":1, "total":7, "tv":"https://hes-courseware.oss-cn-beijing.aliyuncs.com/LightLessons/count_4/light_train_v7.mp4", "sound":"common_count_sound4_mp3"}}
+    ]
+}

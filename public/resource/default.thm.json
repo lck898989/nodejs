@@ -1,0 +1,16 @@
+{
+	"skins": {},
+	"autoGenerateExmlsList": false,
+	"exmls": [
+		"resource/gamemain/game_skins/CommonDlg/CommonButton_Skin.exml",
+		"resource/gamemain/game_skins/CommonDlg/ComOption_Skin.exml",
+		"resource/gamemain/game_skins/CommonDlg/Dlg_CommonMovie_Skin.exml",
+		"resource/gamemain/game_skins/CommonDlg/Dlg_IE_Enter_Skin.exml",
+		"resource/gamemain/game_skins/CommonDlg/Dlg_IE_Right_Skin.exml",
+		"resource/gamemain/game_skins/CommonDlg/IE_Jumpout_Skin.exml",
+		"resource/gamemain/game_skins/CommonDlg/IT_fullvideo_Skin.exml",
+		"resource/gamemain/game_skins/CommonDlg/IT_video_Skin.exml",
+		"resource/gamemain/game_skins/LS_trainvideo_Skin.exml"
+	],
+	"path": "resource/default.thm.json"
+}

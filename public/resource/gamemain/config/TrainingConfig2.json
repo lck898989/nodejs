@@ -1,0 +1,14 @@
+
+{
+"2": 
+    [
+        { "name":"ITraining1_2" , "curLoad": "itraining1_1", "data":{"name":"9 的好朋友是谁呢？", "step":1, "sort":2, "id":1, "opts":["1", "2", "3", "5"], "result":1, "section":1, "total":8, "tv":"https://hes-courseware.oss-cn-beijing.aliyuncs.com/LightLessons/count_1/light_train_1_1.mp4", "sound":"common_count_sound3_mp3"}},
+        { "name":"ITraining1_3" , "curLoad": "itraining1_1", "data":{"name":"17 的好朋友是谁呢？", "step":2, "sort":3, "id":2, "opts":["1", "2", "3", "5"], "result":3, "section":1, "total":8, "tv":"https://hes-courseware.oss-cn-beijing.aliyuncs.com/LightLessons/count_1/light_train_1_2.mp4", "sound":"common_count_sound3_mp3"}},
+        { "name":"ITraining1_4" , "curLoad": "itraining1_1", "data":{"name":"28 的好朋友是谁呢？", "step":3, "sort":4, "id":3, "opts":["1", "2", "3", "5"], "result":2, "section":1, "total":8, "tv":"https://hes-courseware.oss-cn-beijing.aliyuncs.com/LightLessons/count_1/light_train_1_3.mp4", "sound":"common_count_sound3_mp3"}},
+        { "name":"ITraining1_6" , "curLoad": "itraining1_1", "data":{"name":"45 的好朋友是谁呢？", "step":4, "sort":6, "id":4, "opts":["1", "2", "3", "5"], "result":5, "section":1, "total":8, "tv":"https://hes-courseware.oss-cn-beijing.aliyuncs.com/LightLessons/count_1/light_train_1_4.mp4", "sound":"common_count_sound3_mp3"}},
+        { "name":"ITraining1_8" , "curLoad": "itraining1_1", "data":{"name":"20+6=？", "step":5, "sort":8, "id":5, "result":26, "section":1, "total":8, "tv":"https://hes-courseware.oss-cn-beijing.aliyuncs.com/LightLessons/count_1/light_train_1_5.mp4", "sound":"common_count_sound2_mp3"}},
+        { "name":"ITraining1_11" , "curLoad": "itraining1_1", "data":{"name":"30+50=？", "step":6, "sort":11, "id":6, "result":80, "section":1, "total":8, "tv":"https://hes-courseware.oss-cn-beijing.aliyuncs.com/LightLessons/count_1/light_train_1_6.mp4", "sound":"common_count_sound2_mp3"}},
+        { "name":"ITraining1_14" , "curLoad": "itraining1_1", "data":{"name":"12+9+8=？", "step":7, "sort":14, "id":7, "result":29, "section":1, "total":8, "tv":"https://hes-courseware.oss-cn-beijing.aliyuncs.com/LightLessons/count_1/light_train_1_7.mp4", "sound":"common_count_sound2_mp3"}},
+        { "name":"ITraining1_15" , "curLoad": "itraining1_1", "data":{"name":"27+8+3=？", "step":8, "sort":15, "id":8, "result":38, "section":1, "total":8, "tv":"https://hes-courseware.oss-cn-beijing.aliyuncs.com/LightLessons/count_1/light_train_1_8.mp4", "sound":"common_count_sound2_mp3"}}
+    ]
+}
