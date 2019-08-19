@@ -38,7 +38,8 @@ app.use(log4js.connectLogger(log4js.getLogger("normal"),{level: log4js.levels.IN
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: false}));
 app.use("/message",messageRouter);
-app.use("/game",express.static(path.join(__dirname,"public")));
+app.use("/web",express.static(path.join(__dirname,"public")));
+app.use("/game",express.static(path.join(__dirname,"game")));
 app.all("*",(req,res,next) => {
   res.header("Access-Control-Allow-Origin","*");
   res.header("Access-Control-Allow-Headers","content-type");
