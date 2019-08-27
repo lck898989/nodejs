@@ -6,9 +6,6 @@ const bodyParser = require("body-parser");
 const Util = require("./common/Util");
 const messageRouter = require("./routes/getMessageByPost");
 const fs = require("fs");
-// 微信公众号配置的token字符串
-
-console.log("__dirname is ",__dirname);
 log4js.configure({
     appenders: {
         cheese: {
@@ -32,14 +29,14 @@ log4js.configure({
 })
 const logger = log4js.getLogger("normal");
 Util.logger = logger;
-console.log("Util is ",Util);
-console.log("Logger is ",Util.logger);
 app.use(log4js.connectLogger(log4js.getLogger("normal"),{level: log4js.levels.INFO}))
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: false}));
 app.use("/message",messageRouter);
 app.use("/web",express.static(path.join(__dirname,"public")));
 app.use("/game",express.static(path.join(__dirname,"game")));
+app.use("/egret-game",express.static(path.join(__dirname,"egret-game")));
+app.use("/hot-update",express.static(path.join(__dirname,"upload")));
 app.all("*",(req,res,next) => {
   res.header("Access-Control-Allow-Origin","*");
   res.header("Access-Control-Allow-Headers","content-type");

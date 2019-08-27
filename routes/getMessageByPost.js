@@ -7,6 +7,7 @@ const express = require("express");
 const router = express.Router();
 const Util = require("../common/Util");
 const parseString = require("xml2js").parseString;
+const ejs = require("ejs");
 const tokenStr = "lckweixin";
 const crypto = require("crypto");
 const Token = require("../utils/Token");
@@ -138,5 +139,24 @@ router.post("/",(req,res) => {
         })
         // res.send("success");
     })
+})
+// 上传文件UI
+router.get("/upload",(req,res) => {
+    let logger = Util.getLogger();
+    console.log("ejs is ",ejs);
+    ejs.renderFile("../views/upload.ejs",{
+        msg: "上传文件"
+    },(err,data) => {
+        logger.info("===========>>data is ",data);
+        if(err) {
+            logger.error(err);
+            return;
+        }
+        res.send(data);
+    })
+})
+// 上传文件
+router.post("/upload",(req,res) => {
+
 })
 module.exports = router;
