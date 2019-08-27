@@ -1,0 +1,354 @@
+{
+	"groups": [
+		{
+			"name": "BigClass_EasyAddCalculation_page_scene1",
+			"keys": "BigClass_EasyAddCalculation_big_page_scene1_json,BigClass_EasyAddCalculation_big_page_scene1_png,BigClass_EasyAddCalculation_page_scene_bg1_jpg"
+		},
+		{
+			"name": "BigClass_EasyAddCalculation_page_scene11",
+			"keys": "BigClass_EasyAddCalculation_page_scene_bg11_jpg"
+		},
+		{
+			"name": "BigClass_EasyAddCalculation_page_scene10",
+			"keys": "BigClass_EasyAddCalculation_big_page_scene10_json,BigClass_EasyAddCalculation_big_page_scene10_png,BigClass_EasyAddCalculation_page_scene_bg10_jpg"
+		},
+		{
+			"name": "BigClass_EasyAddCalculation_page_scene12",
+			"keys": "BigClass_EasyAddCalculation_big_page_scene12_json,BigClass_EasyAddCalculation_big_page_scene12_png,BigClass_EasyAddCalculation_page_scene_bg12_jpg"
+		},
+		{
+			"name": "BigClass_EasyAddCalculation_page_scene13",
+			"keys": "BigClass_EasyAddCalculation_big_page_scene13_json,BigClass_EasyAddCalculation_big_page_scene13_png,BigClass_EasyAddCalculation_page_scene_bg13_jpg"
+		},
+		{
+			"name": "BigClass_EasyAddCalculation_page_scene14",
+			"keys": "BigClass_EasyAddCalculation_big_page_scene14_json,BigClass_EasyAddCalculation_big_page_scene14_png,BigClass_EasyAddCalculation_page_scene_bg14_jpg"
+		},
+		{
+			"name": "BigClass_EasyAddCalculation_page_scene15",
+			"keys": "BigClass_EasyAddCalculation_page_scene_bg15_jpg"
+		},
+		{
+			"name": "BigClass_EasyAddCalculation_page_scene16",
+			"keys": "BigClass_EasyAddCalculation_page_scene_bg16_jpg"
+		},
+		{
+			"name": "BigClass_EasyAddCalculation_page_scene17",
+			"keys": "BigClass_EasyAddCalculation_big_page_scene17_json,BigClass_EasyAddCalculation_big_page_scene17_png,BigClass_EasyAddCalculation_page_scene_bg17_jpg"
+		},
+		{
+			"name": "BigClass_EasyAddCalculation_page_scene18",
+			"keys": "BigClass_EasyAddCalculation_page_scene_bg18_jpg"
+		},
+		{
+			"name": "BigClass_EasyAddCalculation_page_scene2",
+			"keys": "BigClass_EasyAddCalculation_page_scene_bg2_jpg"
+		},
+		{
+			"name": "BigClass_EasyAddCalculation_page_scene19",
+			"keys": "BigClass_EasyAddCalculation_page_scene_bg19_jpg"
+		},
+		{
+			"name": "BigClass_EasyAddCalculation_page_scene4",
+			"keys": "BigClass_EasyAddCalculation_page_scene_bg4_jpg"
+		},
+		{
+			"name": "BigClass_EasyAddCalculation_page_scene5",
+			"keys": "BigClass_EasyAddCalculation_page_scene_bg5_jpg"
+		},
+		{
+			"name": "BigClass_EasyAddCalculation_page_scene3",
+			"keys": "BigClass_EasyAddCalculation_big_page_scene3_json,BigClass_EasyAddCalculation_big_page_scene3_png,BigClass_EasyAddCalculation_page_scene_bg3_jpg"
+		},
+		{
+			"name": "BigClass_EasyAddCalculation_page_scene6",
+			"keys": "BigClass_EasyAddCalculation_big_page_scene6_json,BigClass_EasyAddCalculation_big_page_scene6_png,BigClass_EasyAddCalculation_page_scene_bg6_jpg"
+		},
+		{
+			"name": "BigClass_EasyAddCalculation_page_scene20",
+			"keys": "BigClass_EasyAddCalculation_big_page_scene20_json,BigClass_EasyAddCalculation_big_page_scene20_png,BigClass_EasyAddCalculation_page_scene_bg20_jpg"
+		},
+		{
+			"name": "BigClass_EasyAddCalculation_page_scene8",
+			"keys": "BigClass_EasyAddCalculation_big_page_scene8_json,BigClass_EasyAddCalculation_big_page_scene8_png,BigClass_EasyAddCalculation_page_scene_bg8_jpg"
+		},
+		{
+			"name": "BigClass_EasyAddCalculation_page_scene7",
+			"keys": "BigClass_EasyAddCalculation_big_page_scene7_json,BigClass_EasyAddCalculation_big_page_scene7_png,BigClass_EasyAddCalculation_page_scene_bg7_jpg"
+		},
+		{
+			"name": "BigClass_EasyAddCalculation_page_scene9",
+			"keys": "BigClass_EasyAddCalculation_big_page_scene9_json,BigClass_EasyAddCalculation_big_page_scene9_png,BigClass_EasyAddCalculation_page_scene_bg9_jpg"
+		},
+		{
+			"name": "BigClass_EasyAddCalculation_preload",
+			"keys": "BigClass_EasyAddCalculation_json,BigClass_FindDifferenceDown_big_page_scene12_json,BigClass_FindDifferenceDown_page_scene_bg12_jpg,BigClass_EasyAddCalculation_big_page_scene20_json.BigClass_EasyAddCalculation_18_1,BigClass_EasyAddCalculation_big_page_scene8_json,BigClass_EasyAddCalculation_big_page_scene1_json,res3_png"
+		}
+	],
+	"resources": [
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene1/BigClass_EasyAddCalculation_big_page_scene1.json",
+			"type": "sheet",
+			"name": "BigClass_EasyAddCalculation_big_page_scene1_json",
+			"subkeys": "BigClass_EasyAddCalculation_20_1,BigClass_EasyAddCalculation_20_10,BigClass_EasyAddCalculation_20_2,BigClass_EasyAddCalculation_20_3,BigClass_EasyAddCalculation_20_4,BigClass_EasyAddCalculation_20_5,BigClass_EasyAddCalculation_20_6,BigClass_EasyAddCalculation_20_7,BigClass_EasyAddCalculation_20_8,BigClass_EasyAddCalculation_20_9"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene1/BigClass_EasyAddCalculation_big_page_scene1.png",
+			"type": "image",
+			"name": "BigClass_EasyAddCalculation_big_page_scene1_png"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene1/BigClass_EasyAddCalculation_page_scene_bg1.jpg",
+			"type": "image",
+			"name": "BigClass_EasyAddCalculation_page_scene_bg1_jpg"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene11/BigClass_EasyAddCalculation_page_scene_bg11.jpg",
+			"type": "image",
+			"name": "BigClass_EasyAddCalculation_page_scene_bg11_jpg"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene10/BigClass_EasyAddCalculation_big_page_scene10.json",
+			"type": "sheet",
+			"name": "BigClass_EasyAddCalculation_big_page_scene10_json",
+			"subkeys": "BigClass_EasyAddCalculation_10_1,BigClass_EasyAddCalculation_10_10,BigClass_EasyAddCalculation_10_2,BigClass_EasyAddCalculation_10_3,BigClass_EasyAddCalculation_10_4,BigClass_EasyAddCalculation_10_5,BigClass_EasyAddCalculation_10_6,BigClass_EasyAddCalculation_10_7,BigClass_EasyAddCalculation_10_8,BigClass_EasyAddCalculation_10_9"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene10/BigClass_EasyAddCalculation_big_page_scene10.png",
+			"type": "image",
+			"name": "BigClass_EasyAddCalculation_big_page_scene10_png"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene10/BigClass_EasyAddCalculation_page_scene_bg10.jpg",
+			"type": "image",
+			"name": "BigClass_EasyAddCalculation_page_scene_bg10_jpg"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene12/BigClass_EasyAddCalculation_big_page_scene12.json",
+			"type": "sheet",
+			"name": "BigClass_EasyAddCalculation_big_page_scene12_json",
+			"subkeys": "BigClass_EasyAddCalculation_12_1"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene12/BigClass_EasyAddCalculation_big_page_scene12.png",
+			"type": "image",
+			"name": "BigClass_EasyAddCalculation_big_page_scene12_png"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene12/BigClass_EasyAddCalculation_page_scene_bg12.jpg",
+			"type": "image",
+			"name": "BigClass_EasyAddCalculation_page_scene_bg12_jpg"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene13/BigClass_EasyAddCalculation_big_page_scene13.json",
+			"type": "sheet",
+			"name": "BigClass_EasyAddCalculation_big_page_scene13_json",
+			"subkeys": "BigClass_EasyAddCalculation_13_1,BigClass_EasyAddCalculation_13_2,BigClass_EasyAddCalculation_13_3,BigClass_EasyAddCalculation_13_4"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene13/BigClass_EasyAddCalculation_big_page_scene13.png",
+			"type": "image",
+			"name": "BigClass_EasyAddCalculation_big_page_scene13_png"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene13/BigClass_EasyAddCalculation_page_scene_bg13.jpg",
+			"type": "image",
+			"name": "BigClass_EasyAddCalculation_page_scene_bg13_jpg"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene14/BigClass_EasyAddCalculation_big_page_scene14.json",
+			"type": "sheet",
+			"name": "BigClass_EasyAddCalculation_big_page_scene14_json",
+			"subkeys": "BigClass_EasyAddCalculation_14_1,BigClass_EasyAddCalculation_14_2,BigClass_EasyAddCalculation_14_3,BigClass_EasyAddCalculation_14_4,BigClass_EasyAddCalculation_14_5"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene14/BigClass_EasyAddCalculation_big_page_scene14.png",
+			"type": "image",
+			"name": "BigClass_EasyAddCalculation_big_page_scene14_png"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene14/BigClass_EasyAddCalculation_page_scene_bg14.jpg",
+			"type": "image",
+			"name": "BigClass_EasyAddCalculation_page_scene_bg14_jpg"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene15/BigClass_EasyAddCalculation_page_scene_bg15.jpg",
+			"type": "image",
+			"name": "BigClass_EasyAddCalculation_page_scene_bg15_jpg"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene16/BigClass_EasyAddCalculation_page_scene_bg16.jpg",
+			"type": "image",
+			"name": "BigClass_EasyAddCalculation_page_scene_bg16_jpg"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene17/BigClass_EasyAddCalculation_big_page_scene17.json",
+			"type": "sheet",
+			"name": "BigClass_EasyAddCalculation_big_page_scene17_json",
+			"subkeys": "BigClass_EasyAddCalculation_17_1,BigClass_EasyAddCalculation_17_2,BigClass_EasyAddCalculation_17_3"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene17/BigClass_EasyAddCalculation_big_page_scene17.png",
+			"type": "image",
+			"name": "BigClass_EasyAddCalculation_big_page_scene17_png"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene17/BigClass_EasyAddCalculation_page_scene_bg17.jpg",
+			"type": "image",
+			"name": "BigClass_EasyAddCalculation_page_scene_bg17_jpg"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene18/BigClass_EasyAddCalculation_page_scene_bg18.jpg",
+			"type": "image",
+			"name": "BigClass_EasyAddCalculation_page_scene_bg18_jpg"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene2/BigClass_EasyAddCalculation_page_scene_bg2.jpg",
+			"type": "image",
+			"name": "BigClass_EasyAddCalculation_page_scene_bg2_jpg"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene19/BigClass_EasyAddCalculation_page_scene_bg19.jpg",
+			"type": "image",
+			"name": "BigClass_EasyAddCalculation_page_scene_bg19_jpg"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene4/BigClass_EasyAddCalculation_page_scene_bg4.jpg",
+			"type": "image",
+			"name": "BigClass_EasyAddCalculation_page_scene_bg4_jpg"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene5/BigClass_EasyAddCalculation_page_scene_bg5.jpg",
+			"type": "image",
+			"name": "BigClass_EasyAddCalculation_page_scene_bg5_jpg"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene3/BigClass_EasyAddCalculation_big_page_scene3.json",
+			"type": "sheet",
+			"name": "BigClass_EasyAddCalculation_big_page_scene3_json",
+			"subkeys": "BigClass_EasyAddCalculation_3_1"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene3/BigClass_EasyAddCalculation_big_page_scene3.png",
+			"type": "image",
+			"name": "BigClass_EasyAddCalculation_big_page_scene3_png"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene3/BigClass_EasyAddCalculation_page_scene_bg3.jpg",
+			"type": "image",
+			"name": "BigClass_EasyAddCalculation_page_scene_bg3_jpg"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene6/BigClass_EasyAddCalculation_big_page_scene6.json",
+			"type": "sheet",
+			"name": "BigClass_EasyAddCalculation_big_page_scene6_json",
+			"subkeys": "BigClass_EasyAddCalculation_6_1,BigClass_EasyAddCalculation_6_10,BigClass_EasyAddCalculation_6_2,BigClass_EasyAddCalculation_6_3,BigClass_EasyAddCalculation_6_4,BigClass_EasyAddCalculation_6_5,BigClass_EasyAddCalculation_6_6,BigClass_EasyAddCalculation_6_7,BigClass_EasyAddCalculation_6_8,BigClass_EasyAddCalculation_6_9"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene6/BigClass_EasyAddCalculation_big_page_scene6.png",
+			"type": "image",
+			"name": "BigClass_EasyAddCalculation_big_page_scene6_png"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene6/BigClass_EasyAddCalculation_page_scene_bg6.jpg",
+			"type": "image",
+			"name": "BigClass_EasyAddCalculation_page_scene_bg6_jpg"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene20/BigClass_EasyAddCalculation_big_page_scene20.json",
+			"type": "sheet",
+			"name": "BigClass_EasyAddCalculation_big_page_scene20_json",
+			"subkeys": "BigClass_EasyAddCalculation_18_1,BigClass_EasyAddCalculation_18_2"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene20/BigClass_EasyAddCalculation_big_page_scene20.png",
+			"type": "image",
+			"name": "BigClass_EasyAddCalculation_big_page_scene20_png"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene20/BigClass_EasyAddCalculation_page_scene_bg20.jpg",
+			"type": "image",
+			"name": "BigClass_EasyAddCalculation_page_scene_bg20_jpg"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene8/BigClass_EasyAddCalculation_big_page_scene8.json",
+			"type": "sheet",
+			"name": "BigClass_EasyAddCalculation_big_page_scene8_json",
+			"subkeys": "BigClass_EasyAddCalculation_8_1,BigClass_EasyAddCalculation_8_2,BigClass_EasyAddCalculation_8_3"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene8/BigClass_EasyAddCalculation_big_page_scene8.png",
+			"type": "image",
+			"name": "BigClass_EasyAddCalculation_big_page_scene8_png"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene8/BigClass_EasyAddCalculation_page_scene_bg8.jpg",
+			"type": "image",
+			"name": "BigClass_EasyAddCalculation_page_scene_bg8_jpg"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene7/BigClass_EasyAddCalculation_big_page_scene7.json",
+			"type": "sheet",
+			"name": "BigClass_EasyAddCalculation_big_page_scene7_json",
+			"subkeys": "BigClass_EasyAddCalculation_7_1"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene7/BigClass_EasyAddCalculation_big_page_scene7.png",
+			"type": "image",
+			"name": "BigClass_EasyAddCalculation_big_page_scene7_png"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene7/BigClass_EasyAddCalculation_page_scene_bg7.jpg",
+			"type": "image",
+			"name": "BigClass_EasyAddCalculation_page_scene_bg7_jpg"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene9/BigClass_EasyAddCalculation_big_page_scene9.json",
+			"type": "sheet",
+			"name": "BigClass_EasyAddCalculation_big_page_scene9_json",
+			"subkeys": "BigClass_EasyAddCalculation_9_1,BigClass_EasyAddCalculation_9_2,BigClass_EasyAddCalculation_9_3"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene9/BigClass_EasyAddCalculation_big_page_scene9.png",
+			"type": "image",
+			"name": "BigClass_EasyAddCalculation_big_page_scene9_png"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene9/BigClass_EasyAddCalculation_page_scene_bg9.jpg",
+			"type": "image",
+			"name": "BigClass_EasyAddCalculation_page_scene_bg9_jpg"
+		},
+		{
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_preload/BigClass_EasyAddCalculation.json",
+			"type": "json",
+			"name": "BigClass_EasyAddCalculation_json"
+		},
+		{
+			"name": "BigClass_FindDifferenceDown_big_page_scene12_json",
+			"type": "sheet",
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_FindDifferenceDown_page_scene12/BigClass_FindDifferenceDown_big_page_scene12.json",
+			"subkeys": "BigClass_FindDifferenceDown_12_1,BigClass_FindDifferenceDown_12_2,BigClass_FindDifferenceDown_12_3,BigClass_FindDifferenceDown_12_4"
+		},
+		{
+			"name": "BigClass_FindDifferenceDown_page_scene_bg12_jpg",
+			"type": "image",
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_FindDifferenceDown_page_scene12/BigClass_FindDifferenceDown_page_scene_bg12.jpg"
+		},
+		{
+			"name": "res3_png",
+			"type": "image",
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_FindDifferenceDown_page_scene12/res3.png"
+		},
+		{
+			"name": "BigClass_FindDifferenceDown_big_page_scene122_json",
+			"type": "sheet",
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_FindDifferenceDown_page_scene12/BigClass_FindDifferenceDown_big_page_scene12.json",
+			"subkeys": "BigClass_FindDifferenceDown_12_1,BigClass_FindDifferenceDown_12_2,BigClass_FindDifferenceDown_12_3,BigClass_FindDifferenceDown_12_4"
+		},
+		{
+			"name": "BigClass_FindDifferenceDown_page_scene_bg122_jpg",
+			"type": "image",
+			"url": "BigClass_EasyAddCalculation/assets/BigClass_FindDifferenceDown_page_scene12/BigClass_FindDifferenceDown_page_scene_bg12.jpg"
+		}
+	]
+}

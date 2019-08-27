@@ -1,0 +1,29 @@
+{
+	"skins": {},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/BigClass_GraphicThreeD/game_skins/BigClass_GraphicThreeD_Page10Scene/BigClass_GraphicThreeD_Page10Scene_Skin.exml",
+		"resource/BigClass_GraphicThreeD/game_skins/BigClass_GraphicThreeD_Page11Scene/BigClass_GraphicThreeD_Page11Scene_Skin.exml",
+		"resource/BigClass_GraphicThreeD/game_skins/BigClass_GraphicThreeD_Page12Scene/BigClass_GraphicThreeD_Page12Scene_Skin.exml",
+		"resource/BigClass_GraphicThreeD/game_skins/BigClass_GraphicThreeD_Page13Scene/BigClass_GraphicThreeD_Page13Scene_Skin.exml",
+		"resource/BigClass_GraphicThreeD/game_skins/BigClass_GraphicThreeD_Page14Scene/BigClass_GraphicThreeD_Page14Scene_Skin.exml",
+		"resource/BigClass_GraphicThreeD/game_skins/BigClass_GraphicThreeD_Page15Scene/BigClass_GraphicThreeD_Page15Scene_Skin.exml",
+		"resource/BigClass_GraphicThreeD/game_skins/BigClass_GraphicThreeD_Page16Scene/BigClass_GraphicThreeD_Page16Scene_Skin.exml",
+		"resource/BigClass_GraphicThreeD/game_skins/BigClass_GraphicThreeD_Page17Scene/BigClass_GraphicThreeD_Page17Scene_Skin.exml",
+		"resource/BigClass_GraphicThreeD/game_skins/BigClass_GraphicThreeD_Page18Scene/BigClass_GraphicThreeD_Page18Scene_Skin.exml",
+		"resource/BigClass_GraphicThreeD/game_skins/BigClass_GraphicThreeD_Page19Scene/BigClass_GraphicThreeD_Page19Scene_Skin.exml",
+		"resource/BigClass_GraphicThreeD/game_skins/BigClass_GraphicThreeD_Page1Scene/BigClass_GraphicThreeD_Page1Scene_Skin.exml",
+		"resource/BigClass_GraphicThreeD/game_skins/BigClass_GraphicThreeD_Page2Scene/BigClass_GraphicThreeD_Page2Scene_Skin.exml",
+		"resource/BigClass_GraphicThreeD/game_skins/BigClass_GraphicThreeD_Page3Scene/BigClass_GraphicThreeD_Page3Scene_Skin.exml",
+		"resource/BigClass_GraphicThreeD/game_skins/BigClass_GraphicThreeD_Page4Scene/BigClass_GraphicThreeD_Page4Scene_Skin.exml",
+		"resource/BigClass_GraphicThreeD/game_skins/BigClass_GraphicThreeD_Page5Scene/BigClass_GraphicThreeD_Page5Scene_Skin.exml",
+		"resource/BigClass_GraphicThreeD/game_skins/BigClass_GraphicThreeD_Page6Scene/BigClass_GraphicThreeD_Page6Scene_Skin.exml",
+		"resource/BigClass_GraphicThreeD/game_skins/BigClass_GraphicThreeD_Page7Scene/BigClass_GraphicThreeD_Page7Scene_Skin.exml",
+		"resource/BigClass_GraphicThreeD/game_skins/BigClass_GraphicThreeD_Page8Scene/BigClass_GraphicThreeD_Page8Scene_Skin.exml",
+		"resource/BigClass_GraphicThreeD/game_skins/BigClass_GraphicThreeD_Page9Scene/BigClass_GraphicThreeD_Page9Scene_Skin.exml",
+		"resource/gamemain/game_skins/ClassOverScene/GetStarScene_Skin.exml",
+		"resource/gamemain/game_skins/CommonDlg/CommonButton_Skin.exml",
+		"resource/gamemain/game_skins/CommonDlg/Dlg_CommonMovie_Skin.exml"
+	],
+	"path": "resource/BigClass_GraphicThreeD/BigClass_GraphicThreeD.thm.json"
+}

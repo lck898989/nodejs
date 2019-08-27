@@ -1,0 +1,24 @@
+{
+	"skins": {},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/gamemain/game_skins/ClassOverScene/GetStarScene_Skin.exml",
+		"resource/gamemain/game_skins/CommonDlg/CommonButton_Skin.exml",
+		"resource/gamemain/game_skins/CommonDlg/Dlg_CommonMovie_Skin.exml",
+		"resource/TwoClass_GraphicsCalcurlateDown/game_skins/TwoClass_GraphicsCalcurlateDown_Page10Scene/TwoClass_GraphicsCalcurlateDown_Page10Scene_Skin.exml",
+		"resource/TwoClass_GraphicsCalcurlateDown/game_skins/TwoClass_GraphicsCalcurlateDown_Page11Scene/TwoClass_GraphicsCalcurlateDown_Page11Scene_Skin.exml",
+		"resource/TwoClass_GraphicsCalcurlateDown/game_skins/TwoClass_GraphicsCalcurlateDown_Page12Scene/TwoClass_GraphicsCalcurlateDown_Page12Scene_Skin.exml",
+		"resource/TwoClass_GraphicsCalcurlateDown/game_skins/TwoClass_GraphicsCalcurlateDown_Page13Scene/TwoClass_GraphicsCalcurlateDown_Page13Scene_Skin.exml",
+		"resource/TwoClass_GraphicsCalcurlateDown/game_skins/TwoClass_GraphicsCalcurlateDown_Page14Scene/TwoClass_GraphicsCalcurlateDown_Page14Scene_Skin.exml",
+		"resource/TwoClass_GraphicsCalcurlateDown/game_skins/TwoClass_GraphicsCalcurlateDown_Page1Scene/TwoClass_GraphicsCalcurlateDown_Page1Scene_Skin.exml",
+		"resource/TwoClass_GraphicsCalcurlateDown/game_skins/TwoClass_GraphicsCalcurlateDown_Page2Scene/TwoClass_GraphicsCalcurlateDown_Page2Scene_Skin.exml",
+		"resource/TwoClass_GraphicsCalcurlateDown/game_skins/TwoClass_GraphicsCalcurlateDown_Page3Scene/TwoClass_GraphicsCalcurlateDown_Page3Scene_Skin.exml",
+		"resource/TwoClass_GraphicsCalcurlateDown/game_skins/TwoClass_GraphicsCalcurlateDown_Page4Scene/TwoClass_GraphicsCalcurlateDown_Page4Scene_Skin.exml",
+		"resource/TwoClass_GraphicsCalcurlateDown/game_skins/TwoClass_GraphicsCalcurlateDown_Page5Scene/TwoClass_GraphicsCalcurlateDown_Page5Scene_Skin.exml",
+		"resource/TwoClass_GraphicsCalcurlateDown/game_skins/TwoClass_GraphicsCalcurlateDown_Page6Scene/TwoClass_GraphicsCalcurlateDown_Page6Scene_Skin.exml",
+		"resource/TwoClass_GraphicsCalcurlateDown/game_skins/TwoClass_GraphicsCalcurlateDown_Page7Scene/TwoClass_GraphicsCalcurlateDown_Page7Scene_Skin.exml",
+		"resource/TwoClass_GraphicsCalcurlateDown/game_skins/TwoClass_GraphicsCalcurlateDown_Page8Scene/TwoClass_GraphicsCalcurlateDown_Page8Scene_Skin.exml",
+		"resource/TwoClass_GraphicsCalcurlateDown/game_skins/TwoClass_GraphicsCalcurlateDown_Page9Scene/TwoClass_GraphicsCalcurlateDown_Page9Scene_Skin.exml"
+	],
+	"path": "resource/TwoClass_GraphicsCalcurlateDown/TwoClass_GraphicsCalcurlateDown.thm.json"
+}

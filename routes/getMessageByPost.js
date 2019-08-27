@@ -10,6 +10,13 @@ const parseString = require("xml2js").parseString;
 const ejs = require("ejs");
 const tokenStr = "lckweixin";
 const crypto = require("crypto");
+const multer = require("multer");
+const path = require("path");
+const uzip = require("unzip");
+let upload = multer({
+    dest: "../upload/"
+})
+const fs = require("fs");
 const Token = require("../utils/Token");
 const MessageController = require("../controller/MessageController");
 
@@ -143,8 +150,7 @@ router.post("/",(req,res) => {
 // 上传文件UI
 router.get("/upload",(req,res) => {
     let logger = Util.getLogger();
-    console.log("ejs is ",ejs);
-    ejs.renderFile("../views/upload.ejs",{
+    ejs.renderFile("./views/upload.ejs",{
         msg: "上传文件"
     },(err,data) => {
         logger.info("===========>>data is ",data);
@@ -155,8 +161,47 @@ router.get("/upload",(req,res) => {
         res.send(data);
     })
 })
-// 上传文件
-router.post("/upload",(req,res) => {
-
+/***
+ * 
+ * =========================upload file===============================
+ * 
+ */
+router.post("/upload",upload.single("fileItem"),(req,res) => {
+    let logger = Util.getLogger();
+    let file = req.file;
+    let extName = path.extname(file.originalname);
+    let n = path.basename(file.originalname).lastIndexOf(".");
+    let nstr = file.originalname.substring(0,n);
+    let filename = "upload/" + nstr + extName;
+    fs.exists(filename,(exists) => {
+        if(!exists) {
+            return;
+        }
+        // 删除原来的文件
+        fs.unlinkSync(filename);
+    })
+    // 重命名
+    try {
+        fs.rename(file.path,filename,() => {
+            console.log("重命名成功");
+            if(extName === ".zip") {
+                // 开始解压
+                fs.createReadStream(filename).on("error",() => {
+                    console.log("解压失败");
+                }).on("close",() => {
+                    console.log("关闭");
+                    // 删除zip文件
+                    fs.unlinkSync(filename);
+                    logger.info("=============upload success================");
+                    res.send("success");
+                }).pipe(uzip.Extract({path: "upload/" + "remote-assets"}));
+            }
+        })
+    } catch(e) {
+        console.log("e is ",e);
+        logger.error("upload error ",e);
+    } finally {
+        
+    }
 })
 module.exports = router;

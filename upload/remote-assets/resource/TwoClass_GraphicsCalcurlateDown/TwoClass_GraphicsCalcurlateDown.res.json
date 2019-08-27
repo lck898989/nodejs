@@ -1,0 +1,257 @@
+{
+  "groups": [
+    {
+      "name": "TwoClass_GraphicsCalcurlateDown_page_scene10",
+      "keys": "TwoClass_GraphicsCalcurlateDown_page_scene_bg10_jpg"
+    },
+    {
+      "name": "TwoClass_GraphicsCalcurlateDown_page_scene1",
+      "keys": "TwoClass_GraphicsCalcurlateDown_page_scene_bg1_jpg"
+    },
+    {
+      "name": "TwoClass_GraphicsCalcurlateDown_page_scene11",
+      "keys": "TwoClass_GraphicsCalcurlateDown_big_page_scene11_json,TwoClass_GraphicsCalcurlateDown_big_page_scene11_png,TwoClass_GraphicsCalcurlateDown_page_scene_bg11_jpg"
+    },
+    {
+      "name": "TwoClass_GraphicsCalcurlateDown_page_scene12",
+      "keys": "TwoClass_GraphicsCalcurlateDown_big_page_scene12_json,TwoClass_GraphicsCalcurlateDown_big_page_scene12_png,TwoClass_GraphicsCalcurlateDown_page_scene_bg12_jpg"
+    },
+    {
+      "name": "TwoClass_GraphicsCalcurlateDown_page_scene14",
+      "keys": "TwoClass_GraphicsCalcurlateDown_big_page_scene14_json,TwoClass_GraphicsCalcurlateDown_big_page_scene14_png,TwoClass_GraphicsCalcurlateDown_page_scene_bg14_jpg"
+    },
+    {
+      "name": "TwoClass_GraphicsCalcurlateDown_page_scene13",
+      "keys": "TwoClass_GraphicsCalcurlateDown_page_scene_bg13_jpg"
+    },
+    {
+      "name": "TwoClass_GraphicsCalcurlateDown_page_scene2",
+      "keys": "TwoClass_GraphicsCalcurlateDown_page_scene_bg2_jpg"
+    },
+    {
+      "name": "TwoClass_GraphicsCalcurlateDown_page_scene3",
+      "keys": "TwoClass_GraphicsCalcurlateDown_page_scene_bg3_jpg"
+    },
+    {
+      "name": "TwoClass_GraphicsCalcurlateDown_page_scene4",
+      "keys": "TwoClass_GraphicsCalcurlateDown_big_page_scene4_json,TwoClass_GraphicsCalcurlateDown_big_page_scene4_png,TwoClass_GraphicsCalcurlateDown_page_scene_bg4_jpg"
+    },
+    {
+      "name": "TwoClass_GraphicsCalcurlateDown_page_scene5",
+      "keys": "TwoClass_GraphicsCalcurlateDown_page_scene_bg5_jpg"
+    },
+    {
+      "name": "TwoClass_GraphicsCalcurlateDown_page_scene6",
+      "keys": "TwoClass_GraphicsCalcurlateDown_big_page_scene6_json,TwoClass_GraphicsCalcurlateDown_big_page_scene6_png,TwoClass_GraphicsCalcurlateDown_page_scene_bg6_jpg"
+    },
+    {
+      "name": "TwoClass_GraphicsCalcurlateDown_page_scene8",
+      "keys": "TwoClass_GraphicsCalcurlateDown_page_scene_bg8_jpg"
+    },
+    {
+      "name": "TwoClass_GraphicsCalcurlateDown_page_scene7",
+      "keys": "TwoClass_GraphicsCalcurlateDown_big_page_scene7_json,TwoClass_GraphicsCalcurlateDown_big_page_scene7_png,TwoClass_GraphicsCalcurlateDown_page_scene_bg7_jpg"
+    },
+    {
+      "name": "TwoClass_GraphicsCalcurlateDown_page_scene9",
+      "keys": "TwoClass_GraphicsCalcurlateDown_page_scene_bg9_jpg"
+    },
+    {
+      "name": "TwoClass_GraphicsCalcurlateDown_preload",
+      "keys": "TwoClass_GraphicsCalcurlateDown_big_page_scene14_json,TwoClass_GraphicsCalcurlateDown_big_page_scene14_png,TwoClass_GraphicsCalcurlateDown_json,TwoClass_GraphicsCalcurlateDown_Preload_12_1_png,TwoClass_GraphicsCalcurlateDown_Preload_12_10_png,TwoClass_GraphicsCalcurlateDown_Preload_12_2_png,TwoClass_GraphicsCalcurlateDown_Preload_12_3_png,TwoClass_GraphicsCalcurlateDown_Preload_12_4_png,TwoClass_GraphicsCalcurlateDown_Preload_12_5_png,TwoClass_GraphicsCalcurlateDown_Preload_12_6_png,TwoClass_GraphicsCalcurlateDown_Preload_12_7_png,TwoClass_GraphicsCalcurlateDown_Preload_12_8_png,TwoClass_GraphicsCalcurlateDown_Preload_12_9_png"
+    }
+  ],
+  "resources": [
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_page_scene10/TwoClass_GraphicsCalcurlateDown_page_scene_bg10.jpg",
+      "type": "image",
+      "name": "TwoClass_GraphicsCalcurlateDown_page_scene_bg10_jpg"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_page_scene1/TwoClass_GraphicsCalcurlateDown_page_scene_bg1.jpg",
+      "type": "image",
+      "name": "TwoClass_GraphicsCalcurlateDown_page_scene_bg1_jpg"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_page_scene11/TwoClass_GraphicsCalcurlateDown_big_page_scene11.json",
+      "type": "sheet",
+      "name": "TwoClass_GraphicsCalcurlateDown_big_page_scene11_json",
+      "subkeys": "TwoClass_GraphicsCalcurlateDown_11_1"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_page_scene11/TwoClass_GraphicsCalcurlateDown_big_page_scene11.png",
+      "type": "image",
+      "name": "TwoClass_GraphicsCalcurlateDown_big_page_scene11_png"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_page_scene11/TwoClass_GraphicsCalcurlateDown_page_scene_bg11.jpg",
+      "type": "image",
+      "name": "TwoClass_GraphicsCalcurlateDown_page_scene_bg11_jpg"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_page_scene12/TwoClass_GraphicsCalcurlateDown_big_page_scene12.json",
+      "type": "sheet",
+      "name": "TwoClass_GraphicsCalcurlateDown_big_page_scene12_json",
+      "subkeys": "TwoClass_GraphicsCalcurlateDown_12_1,TwoClass_GraphicsCalcurlateDown_12_2,TwoClass_GraphicsCalcurlateDown_12_3"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_page_scene12/TwoClass_GraphicsCalcurlateDown_big_page_scene12.png",
+      "type": "image",
+      "name": "TwoClass_GraphicsCalcurlateDown_big_page_scene12_png"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_page_scene12/TwoClass_GraphicsCalcurlateDown_page_scene_bg12.jpg",
+      "type": "image",
+      "name": "TwoClass_GraphicsCalcurlateDown_page_scene_bg12_jpg"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_page_scene14/TwoClass_GraphicsCalcurlateDown_big_page_scene14.json",
+      "type": "sheet",
+      "name": "TwoClass_GraphicsCalcurlateDown_big_page_scene14_json",
+      "subkeys": "TwoClass_GraphicsCalcurlateDown_14_1,TwoClass_GraphicsCalcurlateDown_14_2"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_page_scene14/TwoClass_GraphicsCalcurlateDown_big_page_scene14.png",
+      "type": "image",
+      "name": "TwoClass_GraphicsCalcurlateDown_big_page_scene14_png"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_page_scene14/TwoClass_GraphicsCalcurlateDown_page_scene_bg14.jpg",
+      "type": "image",
+      "name": "TwoClass_GraphicsCalcurlateDown_page_scene_bg14_jpg"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_page_scene13/TwoClass_GraphicsCalcurlateDown_page_scene_bg13.jpg",
+      "type": "image",
+      "name": "TwoClass_GraphicsCalcurlateDown_page_scene_bg13_jpg"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_page_scene2/TwoClass_GraphicsCalcurlateDown_page_scene_bg2.jpg",
+      "type": "image",
+      "name": "TwoClass_GraphicsCalcurlateDown_page_scene_bg2_jpg"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_page_scene3/TwoClass_GraphicsCalcurlateDown_page_scene_bg3.jpg",
+      "type": "image",
+      "name": "TwoClass_GraphicsCalcurlateDown_page_scene_bg3_jpg"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_page_scene4/TwoClass_GraphicsCalcurlateDown_big_page_scene4.json",
+      "type": "sheet",
+      "name": "TwoClass_GraphicsCalcurlateDown_big_page_scene4_json",
+      "subkeys": "TwoClass_GraphicsCalcurlateDown_4_1"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_page_scene4/TwoClass_GraphicsCalcurlateDown_big_page_scene4.png",
+      "type": "image",
+      "name": "TwoClass_GraphicsCalcurlateDown_big_page_scene4_png"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_page_scene4/TwoClass_GraphicsCalcurlateDown_page_scene_bg4.jpg",
+      "type": "image",
+      "name": "TwoClass_GraphicsCalcurlateDown_page_scene_bg4_jpg"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_page_scene5/TwoClass_GraphicsCalcurlateDown_page_scene_bg5.jpg",
+      "type": "image",
+      "name": "TwoClass_GraphicsCalcurlateDown_page_scene_bg5_jpg"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_page_scene6/TwoClass_GraphicsCalcurlateDown_big_page_scene6.json",
+      "type": "sheet",
+      "name": "TwoClass_GraphicsCalcurlateDown_big_page_scene6_json",
+      "subkeys": "TwoClass_GraphicsCalcurlateDown_6_1"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_page_scene6/TwoClass_GraphicsCalcurlateDown_big_page_scene6.png",
+      "type": "image",
+      "name": "TwoClass_GraphicsCalcurlateDown_big_page_scene6_png"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_page_scene6/TwoClass_GraphicsCalcurlateDown_page_scene_bg6.jpg",
+      "type": "image",
+      "name": "TwoClass_GraphicsCalcurlateDown_page_scene_bg6_jpg"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_page_scene8/TwoClass_GraphicsCalcurlateDown_page_scene_bg8.jpg",
+      "type": "image",
+      "name": "TwoClass_GraphicsCalcurlateDown_page_scene_bg8_jpg"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_page_scene7/TwoClass_GraphicsCalcurlateDown_big_page_scene7.json",
+      "type": "sheet",
+      "name": "TwoClass_GraphicsCalcurlateDown_big_page_scene7_json",
+      "subkeys": "TwoClass_GraphicsCalcurlateDown_7_1"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_page_scene7/TwoClass_GraphicsCalcurlateDown_big_page_scene7.png",
+      "type": "image",
+      "name": "TwoClass_GraphicsCalcurlateDown_big_page_scene7_png"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_page_scene7/TwoClass_GraphicsCalcurlateDown_page_scene_bg7.jpg",
+      "type": "image",
+      "name": "TwoClass_GraphicsCalcurlateDown_page_scene_bg7_jpg"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_page_scene9/TwoClass_GraphicsCalcurlateDown_page_scene_bg9.jpg",
+      "type": "image",
+      "name": "TwoClass_GraphicsCalcurlateDown_page_scene_bg9_jpg"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_preload/TwoClass_GraphicsCalcurlateDown.json",
+      "type": "json",
+      "name": "TwoClass_GraphicsCalcurlateDown_json"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_preload/TwoClass_GraphicsCalcurlateDown_Preload_12_1.png",
+      "type": "image",
+      "name": "TwoClass_GraphicsCalcurlateDown_Preload_12_1_png"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_preload/TwoClass_GraphicsCalcurlateDown_Preload_12_10.png",
+      "type": "image",
+      "name": "TwoClass_GraphicsCalcurlateDown_Preload_12_10_png"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_preload/TwoClass_GraphicsCalcurlateDown_Preload_12_2.png",
+      "type": "image",
+      "name": "TwoClass_GraphicsCalcurlateDown_Preload_12_2_png"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_preload/TwoClass_GraphicsCalcurlateDown_Preload_12_3.png",
+      "type": "image",
+      "name": "TwoClass_GraphicsCalcurlateDown_Preload_12_3_png"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_preload/TwoClass_GraphicsCalcurlateDown_Preload_12_4.png",
+      "type": "image",
+      "name": "TwoClass_GraphicsCalcurlateDown_Preload_12_4_png"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_preload/TwoClass_GraphicsCalcurlateDown_Preload_12_5.png",
+      "type": "image",
+      "name": "TwoClass_GraphicsCalcurlateDown_Preload_12_5_png"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_preload/TwoClass_GraphicsCalcurlateDown_Preload_12_6.png",
+      "type": "image",
+      "name": "TwoClass_GraphicsCalcurlateDown_Preload_12_6_png"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_preload/TwoClass_GraphicsCalcurlateDown_Preload_12_7.png",
+      "type": "image",
+      "name": "TwoClass_GraphicsCalcurlateDown_Preload_12_7_png"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_preload/TwoClass_GraphicsCalcurlateDown_Preload_12_8.png",
+      "type": "image",
+      "name": "TwoClass_GraphicsCalcurlateDown_Preload_12_8_png"
+    },
+    {
+      "url": "TwoClass_GraphicsCalcurlateDown/assets/TwoClass_GraphicsCalcurlateDown_preload/TwoClass_GraphicsCalcurlateDown_Preload_12_9.png",
+      "type": "image",
+      "name": "TwoClass_GraphicsCalcurlateDown_Preload_12_9_png"
+    }
+  ]
+}

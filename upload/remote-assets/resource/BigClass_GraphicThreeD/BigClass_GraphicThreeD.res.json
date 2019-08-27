@@ -1,0 +1,230 @@
+{
+	"groups": [
+		{
+			"name": "BigClass_GraphicThreeD_page_scene1",
+			"keys": "BigClass_GraphicThreeD_page_scene_bg1_jpg"
+		},
+		{
+			"name": "BigClass_GraphicThreeD_page_scene10",
+			"keys": "BigClass_GraphicThreeD_page_scene_bg10_jpg"
+		},
+		{
+			"name": "BigClass_GraphicThreeD_page_scene11",
+			"keys": "BigClass_GraphicThreeD_page_scene_bg11_jpg"
+		},
+		{
+			"name": "BigClass_GraphicThreeD_page_scene12",
+			"keys": "BigClass_GraphicThreeD_page_scene_bg12_jpg"
+		},
+		{
+			"name": "BigClass_GraphicThreeD_page_scene13",
+			"keys": "BigClass_GraphicThreeD_page_scene_bg13_jpg"
+		},
+		{
+			"name": "BigClass_GraphicThreeD_page_scene14",
+			"keys": "BigClass_GraphicThreeD_page_scene_bg14_jpg"
+		},
+		{
+			"name": "BigClass_GraphicThreeD_page_scene15",
+			"keys": "BigClass_GraphicThreeD_page_scene_bg15_jpg"
+		},
+		{
+			"name": "BigClass_GraphicThreeD_page_scene16",
+			"keys": "BigClass_GraphicThreeD_big_page_scene16_json,BigClass_GraphicThreeD_big_page_scene16_png,BigClass_GraphicThreeD_page_scene_bg16_jpg"
+		},
+		{
+			"name": "BigClass_GraphicThreeD_page_scene17",
+			"keys": "BigClass_GraphicThreeD_big_page_scene17_json,BigClass_GraphicThreeD_page_scene_bg17_jpg,BigClass_GraphicThreeD_big_page_scene17_png"
+		},
+		{
+			"name": "BigClass_GraphicThreeD_page_scene18",
+			"keys": "BigClass_GraphicThreeD_page_scene_bg18_jpg"
+		},
+		{
+			"name": "BigClass_GraphicThreeD_page_scene19",
+			"keys": "BigClass_GraphicThreeD_big_page_scene19_json,BigClass_GraphicThreeD_big_page_scene19_png,BigClass_GraphicThreeD_page_scene_bg19_jpg"
+		},
+		{
+			"name": "BigClass_GraphicThreeD_page_scene2",
+			"keys": "BigClass_GraphicThreeD_page_scene_bg2_jpg"
+		},
+		{
+			"name": "BigClass_GraphicThreeD_page_scene3",
+			"keys": "BigClass_GraphicThreeD_page_scene_bg3_jpg"
+		},
+		{
+			"name": "BigClass_GraphicThreeD_page_scene4",
+			"keys": "BigClass_GraphicThreeD_page_scene_bg4_jpg"
+		},
+		{
+			"name": "BigClass_GraphicThreeD_page_scene5",
+			"keys": "BigClass_GraphicThreeD_page_scene_bg5_jpg"
+		},
+		{
+			"name": "BigClass_GraphicThreeD_page_scene6",
+			"keys": "BigClass_GraphicThreeD_page_scene_bg6_jpg"
+		},
+		{
+			"name": "BigClass_GraphicThreeD_page_scene7",
+			"keys": "BigClass_GraphicThreeD_big_page_scene7_json,BigClass_GraphicThreeD_big_page_scene7_png,BigClass_GraphicThreeD_page_scene_bg7_jpg"
+		},
+		{
+			"name": "BigClass_GraphicThreeD_page_scene8",
+			"keys": "BigClass_GraphicThreeD_page_scene_bg8_jpg"
+		},
+		{
+			"name": "BigClass_GraphicThreeD_page_scene9",
+			"keys": "BigClass_GraphicThreeD_page_scene_bg9_jpg"
+		},
+		{
+			"name": "BigClass_GraphicThreeD_preload",
+			"keys": "BigClass_GraphicThreeD_json,BigClass_GraphicThreeD_big_page_scene19_json.BigClass_GraphicThreeD_19_2"
+		}
+	],
+	"resources": [
+		{
+			"url": "BigClass_GraphicThreeD/assets/BigClass_GraphicThreeD_page_scene1/BigClass_GraphicThreeD_page_scene_bg1.jpg",
+			"type": "image",
+			"name": "BigClass_GraphicThreeD_page_scene_bg1_jpg"
+		},
+		{
+			"url": "BigClass_GraphicThreeD/assets/BigClass_GraphicThreeD_page_scene10/BigClass_GraphicThreeD_page_scene_bg10.jpg",
+			"type": "image",
+			"name": "BigClass_GraphicThreeD_page_scene_bg10_jpg"
+		},
+		{
+			"url": "BigClass_GraphicThreeD/assets/BigClass_GraphicThreeD_page_scene11/BigClass_GraphicThreeD_page_scene_bg11.jpg",
+			"type": "image",
+			"name": "BigClass_GraphicThreeD_page_scene_bg11_jpg"
+		},
+		{
+			"url": "BigClass_GraphicThreeD/assets/BigClass_GraphicThreeD_page_scene12/BigClass_GraphicThreeD_page_scene_bg12.jpg",
+			"type": "image",
+			"name": "BigClass_GraphicThreeD_page_scene_bg12_jpg"
+		},
+		{
+			"url": "BigClass_GraphicThreeD/assets/BigClass_GraphicThreeD_page_scene13/BigClass_GraphicThreeD_page_scene_bg13.jpg",
+			"type": "image",
+			"name": "BigClass_GraphicThreeD_page_scene_bg13_jpg"
+		},
+		{
+			"url": "BigClass_GraphicThreeD/assets/BigClass_GraphicThreeD_page_scene14/BigClass_GraphicThreeD_page_scene_bg14.jpg",
+			"type": "image",
+			"name": "BigClass_GraphicThreeD_page_scene_bg14_jpg"
+		},
+		{
+			"url": "BigClass_GraphicThreeD/assets/BigClass_GraphicThreeD_page_scene15/BigClass_GraphicThreeD_page_scene_bg15.jpg",
+			"type": "image",
+			"name": "BigClass_GraphicThreeD_page_scene_bg15_jpg"
+		},
+		{
+			"url": "BigClass_GraphicThreeD/assets/BigClass_GraphicThreeD_page_scene16/BigClass_GraphicThreeD_big_page_scene16.json",
+			"type": "sheet",
+			"name": "BigClass_GraphicThreeD_big_page_scene16_json",
+			"subkeys": "BigClass_GraphicThreeD_16_1,BigClass_GraphicThreeD_16_2,BigClass_GraphicThreeD_16_3,BigClass_GraphicThreeD_16_4"
+		},
+		{
+			"url": "BigClass_GraphicThreeD/assets/BigClass_GraphicThreeD_page_scene16/BigClass_GraphicThreeD_big_page_scene16.png",
+			"type": "image",
+			"name": "BigClass_GraphicThreeD_big_page_scene16_png"
+		},
+		{
+			"url": "BigClass_GraphicThreeD/assets/BigClass_GraphicThreeD_page_scene16/BigClass_GraphicThreeD_page_scene_bg16.jpg",
+			"type": "image",
+			"name": "BigClass_GraphicThreeD_page_scene_bg16_jpg"
+		},
+		{
+			"url": "BigClass_GraphicThreeD/assets/BigClass_GraphicThreeD_page_scene17/BigClass_GraphicThreeD_big_page_scene17.json",
+			"type": "sheet",
+			"name": "BigClass_GraphicThreeD_big_page_scene17_json",
+			"subkeys": "BigClass_GraphicThreeD_17_1,BigClass_GraphicThreeD_17_2,BigClass_GraphicThreeD_17_3"
+		},
+		{
+			"url": "BigClass_GraphicThreeD/assets/BigClass_GraphicThreeD_page_scene17/BigClass_GraphicThreeD_big_page_scene17.png",
+			"type": "image",
+			"name": "BigClass_GraphicThreeD_big_page_scene17_png"
+		},
+		{
+			"url": "BigClass_GraphicThreeD/assets/BigClass_GraphicThreeD_page_scene18/BigClass_GraphicThreeD_page_scene_bg18.jpg",
+			"type": "image",
+			"name": "BigClass_GraphicThreeD_page_scene_bg18_jpg"
+		},
+		{
+			"url": "BigClass_GraphicThreeD/assets/BigClass_GraphicThreeD_page_scene19/BigClass_GraphicThreeD_big_page_scene19.json",
+			"type": "sheet",
+			"name": "BigClass_GraphicThreeD_big_page_scene19_json",
+			"subkeys": "BigClass_GraphicThreeD_19_1,BigClass_GraphicThreeD_19_2"
+		},
+		{
+			"url": "BigClass_GraphicThreeD/assets/BigClass_GraphicThreeD_page_scene19/BigClass_GraphicThreeD_big_page_scene19.png",
+			"type": "image",
+			"name": "BigClass_GraphicThreeD_big_page_scene19_png"
+		},
+		{
+			"url": "BigClass_GraphicThreeD/assets/BigClass_GraphicThreeD_page_scene19/BigClass_GraphicThreeD_page_scene_bg19.jpg",
+			"type": "image",
+			"name": "BigClass_GraphicThreeD_page_scene_bg19_jpg"
+		},
+		{
+			"url": "BigClass_GraphicThreeD/assets/BigClass_GraphicThreeD_page_scene2/BigClass_GraphicThreeD_page_scene_bg2.jpg",
+			"type": "image",
+			"name": "BigClass_GraphicThreeD_page_scene_bg2_jpg"
+		},
+		{
+			"url": "BigClass_GraphicThreeD/assets/BigClass_GraphicThreeD_page_scene3/BigClass_GraphicThreeD_page_scene_bg3.jpg",
+			"type": "image",
+			"name": "BigClass_GraphicThreeD_page_scene_bg3_jpg"
+		},
+		{
+			"url": "BigClass_GraphicThreeD/assets/BigClass_GraphicThreeD_page_scene4/BigClass_GraphicThreeD_page_scene_bg4.jpg",
+			"type": "image",
+			"name": "BigClass_GraphicThreeD_page_scene_bg4_jpg"
+		},
+		{
+			"url": "BigClass_GraphicThreeD/assets/BigClass_GraphicThreeD_page_scene5/BigClass_GraphicThreeD_page_scene_bg5.jpg",
+			"type": "image",
+			"name": "BigClass_GraphicThreeD_page_scene_bg5_jpg"
+		},
+		{
+			"url": "BigClass_GraphicThreeD/assets/BigClass_GraphicThreeD_page_scene6/BigClass_GraphicThreeD_page_scene_bg6.jpg",
+			"type": "image",
+			"name": "BigClass_GraphicThreeD_page_scene_bg6_jpg"
+		},
+		{
+			"url": "BigClass_GraphicThreeD/assets/BigClass_GraphicThreeD_page_scene7/BigClass_GraphicThreeD_big_page_scene7.json",
+			"type": "sheet",
+			"name": "BigClass_GraphicThreeD_big_page_scene7_json",
+			"subkeys": "BigClass_GraphicThreeD_7_1,BigClass_GraphicThreeD_7_2,BigClass_GraphicThreeD_7_3,BigClass_GraphicThreeD_7_4,BigClass_GraphicThreeD_7_5,BigClass_GraphicThreeD_7_6"
+		},
+		{
+			"url": "BigClass_GraphicThreeD/assets/BigClass_GraphicThreeD_page_scene7/BigClass_GraphicThreeD_big_page_scene7.png",
+			"type": "image",
+			"name": "BigClass_GraphicThreeD_big_page_scene7_png"
+		},
+		{
+			"url": "BigClass_GraphicThreeD/assets/BigClass_GraphicThreeD_page_scene7/BigClass_GraphicThreeD_page_scene_bg7.jpg",
+			"type": "image",
+			"name": "BigClass_GraphicThreeD_page_scene_bg7_jpg"
+		},
+		{
+			"url": "BigClass_GraphicThreeD/assets/BigClass_GraphicThreeD_page_scene8/BigClass_GraphicThreeD_page_scene_bg8.jpg",
+			"type": "image",
+			"name": "BigClass_GraphicThreeD_page_scene_bg8_jpg"
+		},
+		{
+			"url": "BigClass_GraphicThreeD/assets/BigClass_GraphicThreeD_page_scene9/BigClass_GraphicThreeD_page_scene_bg9.jpg",
+			"type": "image",
+			"name": "BigClass_GraphicThreeD_page_scene_bg9_jpg"
+		},
+		{
+			"url": "BigClass_GraphicThreeD/assets/BigClass_GraphicThreeD_preload/BigClass_GraphicThreeD.json",
+			"type": "json",
+			"name": "BigClass_GraphicThreeD_json"
+		},
+		{
+			"name": "BigClass_GraphicThreeD_page_scene_bg17_jpg",
+			"type": "image",
+			"url": "BigClass_GraphicThreeD/assets/BigClass_GraphicThreeD_page_scene17/BigClass_GraphicThreeD_page_scene_bg17.jpg"
+		}
+	]
+}

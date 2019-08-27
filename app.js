@@ -36,7 +36,7 @@ app.use("/message",messageRouter);
 app.use("/web",express.static(path.join(__dirname,"public")));
 app.use("/game",express.static(path.join(__dirname,"game")));
 app.use("/egret-game",express.static(path.join(__dirname,"egret-game")));
-app.use("/hot-update",express.static(path.join(__dirname,"upload")));
+app.use("/remote-assets",express.static(path.join(__dirname,"upload/remote-assets")));
 app.all("*",(req,res,next) => {
   res.header("Access-Control-Allow-Origin","*");
   res.header("Access-Control-Allow-Headers","content-type");

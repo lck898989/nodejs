@@ -1,0 +1,84 @@
+{
+    "courseware": [
+        {
+            "name": "BigClass_GraphicThreeD_Page1Scene",
+            "curLoad": "BigClass_GraphicThreeD_page_scene1"
+        },
+        {
+            "name": "BigClass_GraphicThreeD_Page2Scene",
+            "curLoad": "BigClass_GraphicThreeD_page_scene2"
+        },
+        {
+            "name": "BigClass_GraphicThreeD_Page3Scene",
+            "curLoad": "BigClass_GraphicThreeD_page_scene3"
+        },
+        {
+            "name": "BigClass_GraphicThreeD_Page4Scene",
+            "curLoad": "BigClass_GraphicThreeD_page_scene4"
+        },
+        {
+            "name": "BigClass_GraphicThreeD_Page5Scene",
+            "curLoad": "BigClass_GraphicThreeD_page_scene5"
+        },
+        {
+            "name": "BigClass_GraphicThreeD_Page6Scene",
+            "curLoad": "BigClass_GraphicThreeD_page_scene6"
+        },
+        {
+            "name": "BigClass_GraphicThreeD_Page7Scene",
+            "curLoad": "BigClass_GraphicThreeD_page_scene7"
+        },
+        {
+            "name": "BigClass_GraphicThreeD_Page8Scene",
+            "curLoad": "BigClass_GraphicThreeD_page_scene8"
+        },
+        {
+            "name": "BigClass_GraphicThreeD_Page9Scene",
+            "curLoad": "BigClass_GraphicThreeD_page_scene9"
+        },
+        {
+            "name": "BigClass_GraphicThreeD_Page10Scene",
+            "curLoad": "BigClass_GraphicThreeD_page_scene10"
+        },
+        {
+            "name": "BigClass_GraphicThreeD_Page11Scene",
+            "curLoad": "BigClass_GraphicThreeD_page_scene11"
+        },
+        {
+            "name": "BigClass_GraphicThreeD_Page12Scene",
+            "curLoad": "BigClass_GraphicThreeD_page_scene12"
+        },
+        {
+            "name": "BigClass_GraphicThreeD_Page13Scene",
+            "curLoad": "BigClass_GraphicThreeD_page_scene13"
+        },
+        {
+            "name": "BigClass_GraphicThreeD_Page14Scene",
+            "curLoad": "BigClass_GraphicThreeD_page_scene14"
+        },
+        {
+            "name": "BigClass_GraphicThreeD_Page15Scene",
+            "curLoad": "BigClass_GraphicThreeD_page_scene15"
+        },
+        {
+            "name": "BigClass_GraphicThreeD_Page16Scene",
+            "curLoad": "BigClass_GraphicThreeD_page_scene16"
+        },
+        {
+            "name": "BigClass_GraphicThreeD_Page17Scene",
+            "curLoad": "BigClass_GraphicThreeD_page_scene17"
+        },
+        {
+            "name": "BigClass_GraphicThreeD_Page18Scene",
+            "curLoad": "BigClass_GraphicThreeD_page_scene18"
+        },
+        {
+            "name": "GetStarScene",
+            "curLoad": "complete",
+            "data": {
+                "starName": "BigClass_GraphicThreeD_big_page_scene19_json.BigClass_GraphicThreeD_19_2",
+                "backIndex": 1
+            }
+        }
+    ]
+}

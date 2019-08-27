@@ -1,0 +1,64 @@
+{
+    "courseware": [
+        {
+            "name": "TwoClass_GraphicsCalcurlateDown_Page1Scene",
+            "curLoad": "TwoClass_GraphicsCalcurlateDown_page_scene1"
+        },
+        {
+            "name": "TwoClass_GraphicsCalcurlateDown_Page2Scene",
+            "curLoad": "TwoClass_GraphicsCalcurlateDown_page_scene2"
+        },
+        {
+            "name": "TwoClass_GraphicsCalcurlateDown_Page3Scene",
+            "curLoad": "TwoClass_GraphicsCalcurlateDown_page_scene3"
+        },
+        {
+            "name": "TwoClass_GraphicsCalcurlateDown_Page4Scene",
+            "curLoad": "TwoClass_GraphicsCalcurlateDown_page_scene4"
+        },
+        {
+            "name": "TwoClass_GraphicsCalcurlateDown_Page5Scene",
+            "curLoad": "TwoClass_GraphicsCalcurlateDown_page_scene5"
+        },
+        {
+            "name": "TwoClass_GraphicsCalcurlateDown_Page6Scene",
+            "curLoad": "TwoClass_GraphicsCalcurlateDown_page_scene6"
+        },
+        {
+            "name": "TwoClass_GraphicsCalcurlateDown_Page7Scene",
+            "curLoad": "TwoClass_GraphicsCalcurlateDown_page_scene7"
+        },
+        {
+            "name": "TwoClass_GraphicsCalcurlateDown_Page8Scene",
+            "curLoad": "TwoClass_GraphicsCalcurlateDown_page_scene8"
+        },
+        {
+            "name": "TwoClass_GraphicsCalcurlateDown_Page9Scene",
+            "curLoad": "TwoClass_GraphicsCalcurlateDown_page_scene9"
+        },
+        {
+            "name": "TwoClass_GraphicsCalcurlateDown_Page10Scene",
+            "curLoad": "TwoClass_GraphicsCalcurlateDown_page_scene10"
+        },
+        {
+            "name": "TwoClass_GraphicsCalcurlateDown_Page11Scene",
+            "curLoad": "TwoClass_GraphicsCalcurlateDown_page_scene11"
+        },
+        {
+            "name": "TwoClass_GraphicsCalcurlateDown_Page12Scene",
+            "curLoad": "TwoClass_GraphicsCalcurlateDown_page_scene12"
+        },
+        {
+            "name": "TwoClass_GraphicsCalcurlateDown_Page13Scene",
+            "curLoad": "TwoClass_GraphicsCalcurlateDown_page_scene13"
+        },
+        {
+            "name": "GetStarScene",
+            "curLoad": "complete",
+            "data": {
+                "starName": "TwoClass_GraphicsCalcurlateDown_big_page_scene14_json.TwoClass_GraphicsCalcurlateDown_14_1",
+                "backIndex": 1
+            }
+        }
+    ]
+}

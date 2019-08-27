@@ -1,0 +1,31 @@
+{
+	"skins": {},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/BigClass_EasyAddCalculation/game_skins/BigClass_EasyAddCalculation_Page10Scene/BigClass_EasyAddCalculation_Page10Scene_Skin.exml",
+		"resource/BigClass_EasyAddCalculation/game_skins/BigClass_EasyAddCalculation_Page11Scene/BigClass_EasyAddCalculation_Page11Scene_Skin.exml",
+		"resource/BigClass_EasyAddCalculation/game_skins/BigClass_EasyAddCalculation_Page12Scene/BigClass_EasyAddCalculation_Page12Scene_Skin.exml",
+		"resource/BigClass_EasyAddCalculation/game_skins/BigClass_EasyAddCalculation_Page13Scene/BigClass_EasyAddCalculation_Page13Scene_Skin.exml",
+		"resource/BigClass_EasyAddCalculation/game_skins/BigClass_EasyAddCalculation_Page14Scene/BigClass_EasyAddCalculation_Page14Scene_Skin.exml",
+		"resource/BigClass_EasyAddCalculation/game_skins/BigClass_EasyAddCalculation_Page15Scene/BigClass_EasyAddCalculation_Page15Scene_Skin.exml",
+		"resource/BigClass_EasyAddCalculation/game_skins/BigClass_EasyAddCalculation_Page16Scene/BigClass_EasyAddCalculation_Page16Scene_Skin.exml",
+		"resource/BigClass_EasyAddCalculation/game_skins/BigClass_EasyAddCalculation_Page17Scene/BigClass_EasyAddCalculation_Page17Scene_Skin.exml",
+		"resource/BigClass_EasyAddCalculation/game_skins/BigClass_EasyAddCalculation_Page18Scene/BigClass_EasyAddCalculation_Page18Scene_Skin.exml",
+		"resource/BigClass_EasyAddCalculation/game_skins/BigClass_EasyAddCalculation_Page19Scene/BigClass_EasyAddCalculation_Page19Scene_Skin.exml",
+		"resource/BigClass_EasyAddCalculation/game_skins/BigClass_EasyAddCalculation_Page1Scene/BigClass_EasyAddCalculation_Page1Scene_Skin.exml",
+		"resource/BigClass_EasyAddCalculation/game_skins/BigClass_EasyAddCalculation_Page20Scene/BigClass_EasyAddCalculation_Page20Scene_Skin.exml",
+		"resource/BigClass_EasyAddCalculation/game_skins/BigClass_EasyAddCalculation_Page2Scene/BigClass_EasyAddCalculation_Page2Scene_Skin.exml",
+		"resource/BigClass_EasyAddCalculation/game_skins/BigClass_EasyAddCalculation_Page3Scene/BigClass_EasyAddCalculation_Page3Scene_Skin.exml",
+		"resource/BigClass_EasyAddCalculation/game_skins/BigClass_EasyAddCalculation_Page4Scene/BigClass_EasyAddCalculation_Page4Scene_Skin.exml",
+		"resource/BigClass_EasyAddCalculation/game_skins/BigClass_EasyAddCalculation_Page5Scene/BigClass_EasyAddCalculation_Page5Scene_Skin.exml",
+		"resource/BigClass_EasyAddCalculation/game_skins/BigClass_EasyAddCalculation_Page6Scene/BigClass_EasyAddCalculation_Page6Scene_Skin.exml",
+		"resource/BigClass_EasyAddCalculation/game_skins/BigClass_EasyAddCalculation_Page7Scene/BigClass_EasyAddCalculation_Page7Scene_Skin.exml",
+		"resource/BigClass_EasyAddCalculation/game_skins/BigClass_EasyAddCalculation_Page8Scene/BigClass_EasyAddCalculation_Page8Scene_Skin.exml",
+		"resource/BigClass_EasyAddCalculation/game_skins/BigClass_EasyAddCalculation_Page9Scene/BigClass_EasyAddCalculation_Page9Scene_Skin.exml",
+		"resource/BigClass_EasyAddCalculation/game_skins/BigClass_FindDifferenceDown_Page12Scene/BigClass_FindDifferenceDown_Page12Scene_Skin.exml",
+		"resource/gamemain/game_skins/ClassOverScene/GetStarScene_Skin.exml",
+		"resource/gamemain/game_skins/CommonDlg/CommonButton_Skin.exml",
+		"resource/gamemain/game_skins/CommonDlg/Dlg_CommonMovie_Skin.exml"
+	],
+	"path": "resource/BigClass_EasyAddCalculation/BigClass_EasyAddCalculation.thm.json"
+}
