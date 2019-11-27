@@ -1,0 +1,575 @@
+[2019-08-27T09:52:11.412] [INFO] normal - ::1 - - "GET /upload HTTP/1.1" 404 145 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.565] [INFO] normal - ::1 - - "GET /web/ HTTP/1.1" 304 - "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.573] [INFO] normal - ::1 - - "GET /web/css/bootstrap.css HTTP/1.1" 304 - "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.574] [INFO] normal - ::1 - - "GET /web/css/style.css HTTP/1.1" 304 - "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.581] [INFO] normal - ::1 - - "GET /web/js/move-top.js HTTP/1.1" 304 - "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.583] [INFO] normal - ::1 - - "GET /web/js/easing.js HTTP/1.1" 304 - "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.584] [INFO] normal - ::1 - - "GET /web/css/swipebox.css HTTP/1.1" 304 - "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.585] [INFO] normal - ::1 - - "GET /web/css/animate.css HTTP/1.1" 304 - "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.585] [INFO] normal - ::1 - - "GET /web/js/jquery.swipebox.min.js HTTP/1.1" 304 - "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.585] [INFO] normal - ::1 - - "GET /web/js/wow.min.js HTTP/1.1" 304 - "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.586] [INFO] normal - ::1 - - "GET /web/images/nav.png HTTP/1.1" 304 - "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.587] [INFO] normal - ::1 - - "GET /web/images/icon4.png HTTP/1.1" 304 - "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.593] [INFO] normal - ::1 - - "GET /web/images/icon5.png HTTP/1.1" 304 - "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.594] [INFO] normal - ::1 - - "GET /web/images/icon6.png HTTP/1.1" 304 - "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.610] [INFO] normal - ::1 - - "GET /web/images/icon7.png HTTP/1.1" 304 - "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.617] [INFO] normal - ::1 - - "GET /web/images/img1.jpg HTTP/1.1" 304 - "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.618] [INFO] normal - ::1 - - "GET /web/images/icon1.png HTTP/1.1" 304 - "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.618] [INFO] normal - ::1 - - "GET /web/images/icon2.png HTTP/1.1" 304 - "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.619] [INFO] normal - ::1 - - "GET /web/images/icon3.png HTTP/1.1" 304 - "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.619] [INFO] normal - ::1 - - "GET /web/images/img2.jpg HTTP/1.1" 304 - "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.620] [INFO] normal - ::1 - - "GET /web/images/magnify.png HTTP/1.1" 304 - "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.623] [INFO] normal - ::1 - - "GET /web/images/img3.jpg HTTP/1.1" 304 - "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.624] [INFO] normal - ::1 - - "GET /web/images/img4.jpg HTTP/1.1" 304 - "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.624] [INFO] normal - ::1 - - "GET /web/images/img5.jpg HTTP/1.1" 304 - "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.625] [INFO] normal - ::1 - - "GET /web/images/img6.jpg HTTP/1.1" 304 - "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.627] [INFO] normal - ::1 - - "GET /web/images/img7.jpg HTTP/1.1" 304 - "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.628] [INFO] normal - ::1 - - "GET /web/images/img8.jpg HTTP/1.1" 304 - "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.629] [INFO] normal - ::1 - - "GET /web/images/img9.jpg HTTP/1.1" 304 - "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.632] [INFO] normal - ::1 - - "GET /web/images/img11.jpg HTTP/1.1" 304 - "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.633] [INFO] normal - ::1 - - "GET /web/images/img10.jpg HTTP/1.1" 304 - "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.633] [INFO] normal - ::1 - - "GET /web/images/img12.jpg HTTP/1.1" 304 - "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.634] [INFO] normal - ::1 - - "GET /web/images/im1.jpg HTTP/1.1" 304 - "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.634] [INFO] normal - ::1 - - "GET /web/images/im2.jpg HTTP/1.1" 304 - "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.634] [INFO] normal - ::1 - - "GET /web/images/im3.jpg HTTP/1.1" 304 - "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.638] [INFO] normal - ::1 - - "GET /web/images/banner.jpg HTTP/1.1" 304 - "http://localhost:8080/web/css/style.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.639] [INFO] normal - ::1 - - "GET /web/images/search.png HTTP/1.1" 304 - "http://localhost:8080/web/css/style.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.639] [INFO] normal - ::1 - - "GET /web/images/list-arrow.png HTTP/1.1" 304 - "http://localhost:8080/web/css/style.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.639] [INFO] normal - ::1 - - "GET /web/images/img-sprite1.png HTTP/1.1" 304 - "http://localhost:8080/web/css/style.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.670] [INFO] normal - ::1 - - "GET /web/images/to-top2.png HTTP/1.1" 304 - "http://localhost:8080/web/css/style.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T09:52:17.698] [INFO] normal - ::1 - - "GET /favicon.ico HTTP/1.1" 404 150 "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:11.168] [INFO] normal - ::1 - - "GET /web/about.html HTTP/1.1" 304 - "http://localhost:8080/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:11.180] [INFO] normal - ::1 - - "GET /web/css/bootstrap.css HTTP/1.1" 304 - "http://localhost:8080/web/about.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:11.181] [INFO] normal - ::1 - - "GET /web/css/style.css HTTP/1.1" 304 - "http://localhost:8080/web/about.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:11.185] [INFO] normal - ::1 - - "GET /web/js/move-top.js HTTP/1.1" 304 - "http://localhost:8080/web/about.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:11.188] [INFO] normal - ::1 - - "GET /web/js/easing.js HTTP/1.1" 304 - "http://localhost:8080/web/about.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:11.188] [INFO] normal - ::1 - - "GET /web/css/swipebox.css HTTP/1.1" 304 - "http://localhost:8080/web/about.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:11.188] [INFO] normal - ::1 - - "GET /web/css/animate.css HTTP/1.1" 304 - "http://localhost:8080/web/about.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:11.189] [INFO] normal - ::1 - - "GET /web/js/jquery.swipebox.min.js HTTP/1.1" 304 - "http://localhost:8080/web/about.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:11.189] [INFO] normal - ::1 - - "GET /web/js/wow.min.js HTTP/1.1" 304 - "http://localhost:8080/web/about.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:11.190] [INFO] normal - ::1 - - "GET /web/images/nav.png HTTP/1.1" 304 - "http://localhost:8080/web/about.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:11.191] [INFO] normal - ::1 - - "GET /web/images/p19.jpg HTTP/1.1" 304 - "http://localhost:8080/web/about.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:11.198] [INFO] normal - ::1 - - "GET /web/images/p20.jpg HTTP/1.1" 304 - "http://localhost:8080/web/about.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:11.198] [INFO] normal - ::1 - - "GET /web/images/p21.jpg HTTP/1.1" 304 - "http://localhost:8080/web/about.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:11.217] [INFO] normal - ::1 - - "GET /web/images/im1.jpg HTTP/1.1" 304 - "http://localhost:8080/web/about.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:11.218] [INFO] normal - ::1 - - "GET /web/images/im2.jpg HTTP/1.1" 304 - "http://localhost:8080/web/about.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:11.218] [INFO] normal - ::1 - - "GET /web/images/im3.jpg HTTP/1.1" 304 - "http://localhost:8080/web/about.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:11.221] [INFO] normal - ::1 - - "GET /web/images/banner.jpg HTTP/1.1" 304 - "http://localhost:8080/web/css/style.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:11.223] [INFO] normal - ::1 - - "GET /web/images/search.png HTTP/1.1" 304 - "http://localhost:8080/web/css/style.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:11.225] [INFO] normal - ::1 - - "GET /web/images/list-arrow.png HTTP/1.1" 304 - "http://localhost:8080/web/css/style.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:11.225] [INFO] normal - ::1 - - "GET /web/images/img-sprite1.png HTTP/1.1" 304 - "http://localhost:8080/web/css/style.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:11.238] [INFO] normal - ::1 - - "GET /web/images/to-top2.png HTTP/1.1" 304 - "http://localhost:8080/web/css/style.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:12.823] [INFO] normal - ::1 - - "GET /web/index.html HTTP/1.1" 200 17872 "http://localhost:8080/web/about.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:12.831] [INFO] normal - ::1 - - "GET /web/css/bootstrap.css HTTP/1.1" 304 - "http://localhost:8080/web/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:12.832] [INFO] normal - ::1 - - "GET /web/css/style.css HTTP/1.1" 304 - "http://localhost:8080/web/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:12.836] [INFO] normal - ::1 - - "GET /web/js/move-top.js HTTP/1.1" 304 - "http://localhost:8080/web/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:12.836] [INFO] normal - ::1 - - "GET /web/js/easing.js HTTP/1.1" 304 - "http://localhost:8080/web/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:12.838] [INFO] normal - ::1 - - "GET /web/css/swipebox.css HTTP/1.1" 304 - "http://localhost:8080/web/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:12.838] [INFO] normal - ::1 - - "GET /web/js/jquery.swipebox.min.js HTTP/1.1" 304 - "http://localhost:8080/web/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:12.838] [INFO] normal - ::1 - - "GET /web/js/wow.min.js HTTP/1.1" 304 - "http://localhost:8080/web/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:12.839] [INFO] normal - ::1 - - "GET /web/css/animate.css HTTP/1.1" 304 - "http://localhost:8080/web/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:12.845] [INFO] normal - ::1 - - "GET /web/images/nav.png HTTP/1.1" 304 - "http://localhost:8080/web/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:12.846] [INFO] normal - ::1 - - "GET /web/images/icon4.png HTTP/1.1" 304 - "http://localhost:8080/web/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:12.854] [INFO] normal - ::1 - - "GET /web/images/icon5.png HTTP/1.1" 304 - "http://localhost:8080/web/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:12.855] [INFO] normal - ::1 - - "GET /web/images/icon6.png HTTP/1.1" 304 - "http://localhost:8080/web/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:12.857] [INFO] normal - ::1 - - "GET /web/images/icon7.png HTTP/1.1" 304 - "http://localhost:8080/web/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:12.858] [INFO] normal - ::1 - - "GET /web/images/img1.jpg HTTP/1.1" 304 - "http://localhost:8080/web/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:12.862] [INFO] normal - ::1 - - "GET /web/images/icon1.png HTTP/1.1" 304 - "http://localhost:8080/web/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:12.863] [INFO] normal - ::1 - - "GET /web/images/icon2.png HTTP/1.1" 304 - "http://localhost:8080/web/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:12.863] [INFO] normal - ::1 - - "GET /web/images/icon3.png HTTP/1.1" 304 - "http://localhost:8080/web/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:12.864] [INFO] normal - ::1 - - "GET /web/images/img2.jpg HTTP/1.1" 304 - "http://localhost:8080/web/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:12.865] [INFO] normal - ::1 - - "GET /web/images/magnify.png HTTP/1.1" 304 - "http://localhost:8080/web/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:12.865] [INFO] normal - ::1 - - "GET /web/images/img3.jpg HTTP/1.1" 304 - "http://localhost:8080/web/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:12.867] [INFO] normal - ::1 - - "GET /web/images/img4.jpg HTTP/1.1" 304 - "http://localhost:8080/web/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:12.868] [INFO] normal - ::1 - - "GET /web/images/img5.jpg HTTP/1.1" 304 - "http://localhost:8080/web/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:12.869] [INFO] normal - ::1 - - "GET /web/images/img6.jpg HTTP/1.1" 304 - "http://localhost:8080/web/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:12.870] [INFO] normal - ::1 - - "GET /web/images/img7.jpg HTTP/1.1" 304 - "http://localhost:8080/web/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:12.871] [INFO] normal - ::1 - - "GET /web/images/img8.jpg HTTP/1.1" 304 - "http://localhost:8080/web/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:12.872] [INFO] normal - ::1 - - "GET /web/images/img9.jpg HTTP/1.1" 304 - "http://localhost:8080/web/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:12.875] [INFO] normal - ::1 - - "GET /web/images/img10.jpg HTTP/1.1" 304 - "http://localhost:8080/web/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:12.875] [INFO] normal - ::1 - - "GET /web/images/img11.jpg HTTP/1.1" 304 - "http://localhost:8080/web/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:12.877] [INFO] normal - ::1 - - "GET /web/images/img12.jpg HTTP/1.1" 304 - "http://localhost:8080/web/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:12.877] [INFO] normal - ::1 - - "GET /web/images/im1.jpg HTTP/1.1" 304 - "http://localhost:8080/web/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:12.878] [INFO] normal - ::1 - - "GET /web/images/im2.jpg HTTP/1.1" 304 - "http://localhost:8080/web/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T13:53:12.879] [INFO] normal - ::1 - - "GET /web/images/im3.jpg HTTP/1.1" 304 - "http://localhost:8080/web/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T14:32:21.912] [INFO] normal - ::1 - - "GET / HTTP/1.1" 404 139 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T14:32:30.631] [INFO] normal - ::1 - - "GET /hot-update HTTP/1.1" 301 187 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T14:32:30.638] [INFO] normal - ::1 - - "GET /hot-update/ HTTP/1.1" 200 286 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T14:43:45.627] [INFO] normal - ::1 - - "GET /upload HTTP/1.1" 404 145 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T14:44:00.719] [INFO] normal - ::1 - - "GET /upload HTTP/1.1" 404 145 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T14:44:01.718] [INFO] normal - ::1 - - "GET /upload HTTP/1.1" 404 145 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T14:44:20.575] [INFO] normal - ::1 - - "GET /upload HTTP/1.1" 404 145 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T14:44:48.969] [INFO] normal - ::1 - - "GET /postMessage HTTP/1.1" 404 150 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T14:45:11.734] [INFO] normal - ============= postMessage req's body si  {}
+[2019-08-27T14:45:11.736] [INFO] normal - ::1 - - "GET /message/postMessage HTTP/1.1" 304 - "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T14:46:48.547] [INFO] normal - undefined
+[2019-08-27T14:46:51.150] [INFO] normal - undefined
+[2019-08-27T14:47:08.164] [INFO] normal - undefined
+[2019-08-27T14:47:10.591] [INFO] normal - undefined
+[2019-08-27T14:47:39.389] [INFO] normal - undefined
+[2019-08-27T14:47:41.534] [INFO] normal - undefined
+[2019-08-27T14:47:45.281] [INFO] normal - undefined
+[2019-08-27T14:48:03.017] [INFO] normal - undefined
+[2019-08-27T14:48:27.594] [INFO] normal - ===========>>data is  undefined
+[2019-08-27T14:48:29.789] [INFO] normal - ===========>>data is  undefined
+[2019-08-27T14:48:32.162] [INFO] normal - ===========>>data is  undefined
+[2019-08-27T14:49:37.885] [INFO] normal - ===========>>data is  undefined
+[2019-08-27T14:50:48.421] [INFO] normal - ===========>>data is  undefined
+[2019-08-27T14:50:48.422] [ERROR] normal - { Error: ENOENT: no such file or directory, open '../views/upload.ejs'
+    at Object.openSync (fs.js:438:3)
+    at Object.readFileSync [as fileLoader] (fs.js:343:35)
+    at fileLoader (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:273:18)
+    at handleCache (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:213:16)
+    at tryHandleCache (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:254:16)
+    at Object.exports.renderFile (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:485:10)
+    at router.get (C:\Users\17838\Desktop\study\nodejs\routes\getMessageByPost.js:148:9)
+    at Layer.handle [as handle_request] (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\route.js:112:3)
+  errno: -4058,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '../views/upload.ejs' }
+[2019-08-27T14:51:07.760] [INFO] normal - ===========>>data is  undefined
+[2019-08-27T14:51:07.761] [ERROR] normal - { Error: ENOENT: no such file or directory, open '../views/upload.ejs'
+    at Object.openSync (fs.js:438:3)
+    at Object.readFileSync [as fileLoader] (fs.js:343:35)
+    at fileLoader (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:273:18)
+    at handleCache (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:213:16)
+    at tryHandleCache (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:254:16)
+    at Object.exports.renderFile (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:485:10)
+    at router.get (C:\Users\17838\Desktop\study\nodejs\routes\getMessageByPost.js:147:9)
+    at Layer.handle [as handle_request] (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\route.js:112:3)
+  errno: -4058,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '../views/upload.ejs' }
+[2019-08-27T14:54:07.826] [INFO] normal - ===========>>data is  undefined
+[2019-08-27T14:54:07.827] [ERROR] normal - { Error: ENOENT: no such file or directory, open '../views/upload.ejs'
+    at Object.openSync (fs.js:438:3)
+    at Object.readFileSync [as fileLoader] (fs.js:343:35)
+    at fileLoader (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:273:18)
+    at handleCache (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:213:16)
+    at tryHandleCache (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:254:16)
+    at Object.exports.renderFile (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:485:10)
+    at router.get (C:\Users\17838\Desktop\study\nodejs\routes\getMessageByPost.js:147:9)
+    at Layer.handle [as handle_request] (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\route.js:112:3)
+  errno: -4058,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '../views/upload.ejs' }
+[2019-08-27T15:04:57.667] [INFO] normal - ===========>>data is  undefined
+[2019-08-27T15:04:57.668] [ERROR] normal - { Error: ENOENT: no such file or directory, open '../views/upload.ejs'
+    at Object.openSync (fs.js:438:3)
+    at Object.readFileSync [as fileLoader] (fs.js:343:35)
+    at fileLoader (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:273:18)
+    at handleCache (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:213:16)
+    at tryHandleCache (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:254:16)
+    at Object.exports.renderFile (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:485:10)
+    at router.get (C:\Users\17838\Desktop\study\nodejs\routes\getMessageByPost.js:147:9)
+    at Layer.handle [as handle_request] (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\route.js:112:3)
+  errno: -4058,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '../views/upload.ejs' }
+[2019-08-27T15:06:46.459] [INFO] normal - ===========>>data is  undefined
+[2019-08-27T15:06:46.460] [ERROR] normal - { Error: ENOENT: no such file or directory, open '../views/upload.ejs'
+    at Object.openSync (fs.js:438:3)
+    at Object.readFileSync [as fileLoader] (fs.js:343:35)
+    at fileLoader (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:273:18)
+    at handleCache (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:213:16)
+    at tryHandleCache (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:254:16)
+    at Object.exports.renderFile (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:485:10)
+    at router.get (C:\Users\17838\Desktop\study\nodejs\routes\getMessageByPost.js:151:9)
+    at Layer.handle [as handle_request] (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\route.js:112:3)
+  errno: -4058,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '../views/upload.ejs' }
+[2019-08-27T15:06:48.980] [INFO] normal - ===========>>data is  undefined
+[2019-08-27T15:06:48.981] [ERROR] normal - { Error: ENOENT: no such file or directory, open '../views/upload.ejs'
+    at Object.openSync (fs.js:438:3)
+    at Object.readFileSync [as fileLoader] (fs.js:343:35)
+    at fileLoader (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:273:18)
+    at handleCache (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:213:16)
+    at tryHandleCache (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:254:16)
+    at Object.exports.renderFile (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:485:10)
+    at router.get (C:\Users\17838\Desktop\study\nodejs\routes\getMessageByPost.js:151:9)
+    at Layer.handle [as handle_request] (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\route.js:112:3)
+  errno: -4058,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '../views/upload.ejs' }
+[2019-08-27T15:07:14.533] [INFO] normal - ===========>>data is  undefined
+[2019-08-27T15:07:14.535] [ERROR] normal - { Error: ENOENT: no such file or directory, open '../views/upload.ejs'
+    at Object.openSync (fs.js:438:3)
+    at Object.readFileSync [as fileLoader] (fs.js:343:35)
+    at fileLoader (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:273:18)
+    at handleCache (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:213:16)
+    at tryHandleCache (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:254:16)
+    at Object.exports.renderFile (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:485:10)
+    at router.get (C:\Users\17838\Desktop\study\nodejs\routes\getMessageByPost.js:150:9)
+    at Layer.handle [as handle_request] (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\route.js:112:3)
+  errno: -4058,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '../views/upload.ejs' }
+[2019-08-27T15:07:19.482] [INFO] normal - ===========>>data is  undefined
+[2019-08-27T15:07:19.482] [ERROR] normal - { Error: ENOENT: no such file or directory, open '../views/upload.ejs'
+    at Object.openSync (fs.js:438:3)
+    at Object.readFileSync [as fileLoader] (fs.js:343:35)
+    at fileLoader (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:273:18)
+    at handleCache (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:213:16)
+    at tryHandleCache (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:254:16)
+    at Object.exports.renderFile (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:485:10)
+    at router.get (C:\Users\17838\Desktop\study\nodejs\routes\getMessageByPost.js:150:9)
+    at Layer.handle [as handle_request] (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\route.js:112:3)
+  errno: -4058,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '../views/upload.ejs' }
+[2019-08-27T15:07:50.341] [INFO] normal - ===========>>data is  undefined
+[2019-08-27T15:07:50.341] [ERROR] normal - { Error: ENOENT: no such file or directory, open '../views/upload.ejs'
+    at Object.openSync (fs.js:438:3)
+    at Object.readFileSync [as fileLoader] (fs.js:343:35)
+    at fileLoader (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:273:18)
+    at handleCache (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:213:16)
+    at tryHandleCache (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:254:16)
+    at Object.exports.renderFile (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:485:10)
+    at router.get (C:\Users\17838\Desktop\study\nodejs\routes\getMessageByPost.js:150:9)
+    at Layer.handle [as handle_request] (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\route.js:112:3)
+  errno: -4058,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '../views/upload.ejs' }
+[2019-08-27T15:08:11.456] [INFO] normal - ===========>>data is  undefined
+[2019-08-27T15:08:11.457] [ERROR] normal - { Error: ENOENT: no such file or directory, open '../views/upload.ejs'
+    at Object.openSync (fs.js:438:3)
+    at Object.readFileSync [as fileLoader] (fs.js:343:35)
+    at fileLoader (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:273:18)
+    at handleCache (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:213:16)
+    at tryHandleCache (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:254:16)
+    at Object.exports.renderFile (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:485:10)
+    at router.get (C:\Users\17838\Desktop\study\nodejs\routes\getMessageByPost.js:153:9)
+    at Layer.handle [as handle_request] (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\route.js:112:3)
+  errno: -4058,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '../views/upload.ejs' }
+[2019-08-27T15:08:34.274] [INFO] normal - ===========>>data is  undefined
+[2019-08-27T15:08:34.275] [ERROR] normal - { Error: ENOENT: no such file or directory, open '../views/upload.ejs'
+    at Object.openSync (fs.js:438:3)
+    at Object.readFileSync [as fileLoader] (fs.js:343:35)
+    at fileLoader (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:273:18)
+    at handleCache (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:213:16)
+    at tryHandleCache (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:254:16)
+    at Object.exports.renderFile (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:485:10)
+    at router.get (C:\Users\17838\Desktop\study\nodejs\routes\getMessageByPost.js:154:9)
+    at Layer.handle [as handle_request] (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\route.js:112:3)
+  errno: -4058,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '../views/upload.ejs' }
+[2019-08-27T15:09:34.009] [INFO] normal - ===========>>data is  undefined
+[2019-08-27T15:09:34.009] [ERROR] normal - { Error: ENOENT: no such file or directory, open '../views/upload.ejs'
+    at Object.openSync (fs.js:438:3)
+    at Object.readFileSync [as fileLoader] (fs.js:343:35)
+    at fileLoader (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:273:18)
+    at handleCache (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:213:16)
+    at tryHandleCache (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:254:16)
+    at Object.exports.renderFile (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:485:10)
+    at router.get (C:\Users\17838\Desktop\study\nodejs\routes\getMessageByPost.js:154:9)
+    at Layer.handle [as handle_request] (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\route.js:112:3)
+  errno: -4058,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '../views/upload.ejs' }
+[2019-08-27T15:10:02.919] [INFO] normal - ===========>>data is  undefined
+[2019-08-27T15:10:02.922] [ERROR] normal - { Error: ENOENT: no such file or directory, open '../views/upload.ejs'
+    at Object.openSync (fs.js:438:3)
+    at Object.readFileSync [as fileLoader] (fs.js:343:35)
+    at fileLoader (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:273:18)
+    at handleCache (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:213:16)
+    at tryHandleCache (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:254:16)
+    at Object.exports.renderFile (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:485:10)
+    at router.get (C:\Users\17838\Desktop\study\nodejs\routes\getMessageByPost.js:154:9)
+    at Layer.handle [as handle_request] (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\route.js:112:3)
+  errno: -4058,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '../views/upload.ejs' }
+[2019-08-27T15:11:53.693] [INFO] normal - ===========>>data is  undefined
+[2019-08-27T15:11:53.694] [ERROR] normal - { Error: ENOENT: no such file or directory, open '../views/upload.ejs'
+    at Object.openSync (fs.js:438:3)
+    at Object.readFileSync [as fileLoader] (fs.js:343:35)
+    at fileLoader (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:273:18)
+    at handleCache (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:213:16)
+    at tryHandleCache (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:254:16)
+    at Object.exports.renderFile (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:485:10)
+    at router.get (C:\Users\17838\Desktop\study\nodejs\routes\getMessageByPost.js:154:9)
+    at Layer.handle [as handle_request] (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\route.js:112:3)
+  errno: -4058,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '../views/upload.ejs' }
+[2019-08-27T15:12:18.316] [INFO] normal - ===========>>data is  undefined
+[2019-08-27T15:12:18.317] [ERROR] normal - { Error: ENOENT: no such file or directory, open '../views/upload.ejs'
+    at Object.openSync (fs.js:438:3)
+    at Object.readFileSync [as fileLoader] (fs.js:343:35)
+    at fileLoader (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:273:18)
+    at handleCache (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:213:16)
+    at tryHandleCache (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:254:16)
+    at Object.exports.renderFile (C:\Users\17838\Desktop\study\nodejs\node_modules\ejs\lib\ejs.js:485:10)
+    at router.get (C:\Users\17838\Desktop\study\nodejs\routes\getMessageByPost.js:154:9)
+    at Layer.handle [as handle_request] (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\17838\Desktop\study\nodejs\node_modules\express\lib\router\route.js:112:3)
+  errno: -4058,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '../views/upload.ejs' }
+[2019-08-27T15:12:50.987] [INFO] normal - ===========>>data is  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <form method="POST" action="/upload" enctype="multipart/form-data">
+        <input type="file" id="file" name="fileItem" multiple="multiple" value="" accept="application/x-zip-compressed">
+        <input type="submit" value="提交">
+    </form>
+</body>
+</html>
+[2019-08-27T15:12:50.994] [INFO] normal - ::1 - - "GET /message/upload HTTP/1.1" 200 522 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:16:37.499] [INFO] normal - ===========>>data is  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <form method="POST" action="/upload" enctype="multipart/form-data">
+        <input type="file" id="file" name="fileItem" multiple="multiple" value="" accept="application/x-zip-compressed">
+        <input type="submit" value="提交">
+    </form>
+</body>
+</html>
+[2019-08-27T15:16:37.504] [INFO] normal - ::1 - - "GET /message/upload HTTP/1.1" 304 - "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:16:42.340] [INFO] normal - ::1 - - "POST /upload HTTP/1.1" 404 146 "http://localhost:8080/message/upload" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:17:12.963] [INFO] normal - ===========>>data is  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <form method="POST" action="/message/upload" enctype="multipart/form-data">
+        <input type="file" id="file" name="fileItem" multiple="multiple" value="" accept="application/x-zip-compressed">
+        <input type="submit" value="提交">
+    </form>
+</body>
+</html>
+[2019-08-27T15:17:12.964] [INFO] normal - ::1 - - "GET /message/upload HTTP/1.1" 200 530 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:17:18.850] [INFO] normal - ::1 - - "POST /message/upload HTTP/1.1" 500 808 "http://localhost:8080/message/upload" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:17:46.980] [INFO] normal - ===========>>data is  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <form method="POST" action="/message/upload" enctype="multipart/form-data">
+        <input type="file" id="file" name="fileItem" multiple="multiple" value="" accept="application/x-zip-compressed">
+        <input type="submit" value="提交">
+    </form>
+</body>
+</html>
+[2019-08-27T15:17:46.984] [INFO] normal - ::1 - - "GET /message/upload HTTP/1.1" 304 - "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:18:20.146] [INFO] normal - ===========>>data is  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <form method="POST" action="/message/upload" enctype="multipart/form-data">
+        <input type="file" id="file" name="fileItem" multiple="multiple" value="" accept="application/x-zip-compressed">
+        <input type="submit" value="提交">
+    </form>
+</body>
+</html>
+[2019-08-27T15:18:20.151] [INFO] normal - ::1 - - "GET /message/upload HTTP/1.1" 304 - "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:18:26.219] [INFO] normal - ::1 - - "POST /message/upload HTTP/1.1" 200 7 "http://localhost:8080/message/upload" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:19:08.340] [INFO] normal - ===========>>data is  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <form method="POST" action="/message/upload" enctype="multipart/form-data">
+        <input type="file" id="file" name="fileItem" multiple="multiple" value="" accept="application/x-zip-compressed">
+        <input type="submit" value="提交">
+    </form>
+</body>
+</html>
+[2019-08-27T15:19:08.345] [INFO] normal - ::1 - - "GET /message/upload HTTP/1.1" 200 530 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:19:13.378] [INFO] normal - ::1 - - "POST /message/upload HTTP/1.1" 200 7 "http://localhost:8080/message/upload" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:23:25.910] [INFO] normal - ===========>>data is  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <form method="POST" action="/message/upload" enctype="multipart/form-data">
+        <input type="file" id="file" name="fileItem" multiple="multiple" value="" accept="application/x-zip-compressed">
+        <input type="submit" value="提交">
+    </form>
+</body>
+</html>
+[2019-08-27T15:23:25.916] [INFO] normal - ::1 - - "GET /message/upload HTTP/1.1" 200 530 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:25:04.167] [INFO] normal - =============upload success================
+[2019-08-27T15:25:04.171] [INFO] normal - ::1 - - "POST /message/upload HTTP/1.1" 200 7 "http://localhost:8080/message/upload" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:25:41.567] [INFO] normal - ::1 - - "GET /message/upload HTTP/1.1" 500 1337 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:25:43.686] [INFO] normal - ::1 - - "GET /message/upload HTTP/1.1" 500 1337 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:26:27.403] [INFO] normal - ===========>>data is  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <form method="POST" action="/message/upload" enctype="multipart/form-data">
+        <input type="file" id="file" name="fileItem" multiple="multiple" value="" accept="application/x-zip-compressed">
+        <input type="submit" value="提交">
+    </form>
+</body>
+</html>
+[2019-08-27T15:26:27.410] [INFO] normal - ::1 - - "GET /message/upload HTTP/1.1" 200 530 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:26:42.257] [INFO] normal - =============upload success================
+[2019-08-27T15:26:42.258] [INFO] normal - ::1 - - "POST /message/upload HTTP/1.1" 200 7 "http://localhost:8080/message/upload" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:27:04.658] [INFO] normal - ===========>>data is  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <form method="POST" action="/message/upload" enctype="multipart/form-data">
+        <input type="file" id="file" name="fileItem" multiple="multiple" value="" accept="application/x-zip-compressed">
+        <input type="submit" value="提交">
+    </form>
+</body>
+</html>
+[2019-08-27T15:27:04.658] [INFO] normal - ::1 - - "GET /message/upload HTTP/1.1" 200 530 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:27:23.626] [INFO] normal - =============upload success================
+[2019-08-27T15:27:23.626] [INFO] normal - ::1 - - "POST /message/upload HTTP/1.1" 200 7 "http://localhost:8080/message/upload" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:27:49.413] [INFO] normal - ===========>>data is  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <form method="POST" action="/message/upload" enctype="multipart/form-data">
+        <input type="file" id="file" name="fileItem" multiple="multiple" value="" accept="application/x-zip-compressed">
+        <input type="submit" value="提交">
+    </form>
+</body>
+</html>
+[2019-08-27T15:27:49.414] [INFO] normal - ::1 - - "GET /message/upload HTTP/1.1" 200 530 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:29:07.720] [INFO] normal - ===========>>data is  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>上传文件</title>
+</head>
+<body>
+    <form method="POST" action="/message/upload" enctype="multipart/form-data">
+        <input type="file" id="file" name="fileItem" multiple="multiple" value="" accept="application/x-zip-compressed">
+        <input type="submit" value="提交">
+    </form>
+</body>
+</html>
+[2019-08-27T15:29:07.721] [INFO] normal - ::1 - - "GET /message/upload HTTP/1.1" 200 534 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:29:42.905] [INFO] normal - ::1 - - "GET /remote-assets/index.html HTTP/1.1" 200 4785 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:29:42.916] [INFO] normal - ::1 - - "GET /remote-assets/manifest.json?v=0.6713907728556352 HTTP/1.1" 200 512 "http://localhost:8080/remote-assets/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:29:42.922] [INFO] normal - ::1 - - "GET /remote-assets/js/egret.web.min_2dd0bd72.js HTTP/1.1" 200 113158 "http://localhost:8080/remote-assets/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:29:42.924] [INFO] normal - ::1 - - "GET /remote-assets/js/egret.min_1f88eb98.js HTTP/1.1" 200 193874 "http://localhost:8080/remote-assets/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:29:42.924] [INFO] normal - ::1 - - "GET /remote-assets/js/assetsmanager.min_f2e50bd1.js HTTP/1.1" 200 26929 "http://localhost:8080/remote-assets/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:29:42.925] [INFO] normal - ::1 - - "GET /remote-assets/js/eui.min_38a8c284.js HTTP/1.1" 200 210595 "http://localhost:8080/remote-assets/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:29:42.928] [INFO] normal - ::1 - - "GET /remote-assets/js/tween.min_6c5a88f9.js HTTP/1.1" 200 12481 "http://localhost:8080/remote-assets/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:29:42.928] [INFO] normal - ::1 - - "GET /remote-assets/js/game.min_45aa06f6.js HTTP/1.1" 200 40360 "http://localhost:8080/remote-assets/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:29:42.932] [INFO] normal - ::1 - - "GET /remote-assets/js/promise.min_83a6a5d.js HTTP/1.1" 200 6474 "http://localhost:8080/remote-assets/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:29:42.934] [INFO] normal - ::1 - - "GET /remote-assets/js/socket.min_8b4cb752.js HTTP/1.1" 200 4476 "http://localhost:8080/remote-assets/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:29:42.935] [INFO] normal - ::1 - - "GET /remote-assets/js/dragonBones.min_6252b9c4.js HTTP/1.1" 200 258742 "http://localhost:8080/remote-assets/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:29:42.951] [INFO] normal - ::1 - - "GET /remote-assets/js/CoursewareModule.min_1429de80.js HTTP/1.1" 200 78910 "http://localhost:8080/remote-assets/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:29:42.951] [INFO] normal - ::1 - - "GET /remote-assets/js/htsw_framework.min_6b847dcf.js HTTP/1.1" 200 116028 "http://localhost:8080/remote-assets/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:29:42.952] [INFO] normal - ::1 - - "GET /remote-assets/js/BigClass_EasyAddCalculation.thm_2c2059a.js HTTP/1.1" 200 105802 "http://localhost:8080/remote-assets/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:29:42.953] [INFO] normal - ::1 - - "GET /remote-assets/js/default.thm_fb85d5ca.js HTTP/1.1" 200 1218 "http://localhost:8080/remote-assets/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:29:42.955] [INFO] normal - ::1 - - "GET /remote-assets/js/main.min_a56ec9fb.js HTTP/1.1" 200 40385 "http://localhost:8080/remote-assets/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:29:43.092] [INFO] normal - ::1 - - "GET /remote-assets/resource/gamemain/default.res.json HTTP/1.1" 200 2525 "http://localhost:8080/remote-assets/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:29:43.107] [INFO] normal - ::1 - - "GET /remote-assets/resource/BigClass_EasyAddCalculation/BigClass_EasyAddCalculation.res.json HTTP/1.1" 200 17579 "http://localhost:8080/remote-assets/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:29:43.167] [INFO] normal - ::1 - - "GET /remote-assets/resource/gamemain/assets/preload/main_preload.json HTTP/1.1" 200 918 "http://localhost:8080/remote-assets/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:29:43.170] [INFO] normal - ::1 - - "GET /remote-assets/resource/BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_preload/BigClass_EasyAddCalculation.json HTTP/1.1" 200 3369 "http://localhost:8080/remote-assets/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:29:43.175] [INFO] normal - ::1 - - "GET /remote-assets/resource/BigClass_EasyAddCalculation/assets/BigClass_FindDifferenceDown_page_scene12/BigClass_FindDifferenceDown_big_page_scene12.json HTTP/1.1" 200 550 "http://localhost:8080/remote-assets/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:29:43.179] [INFO] normal - ::1 - - "GET /remote-assets/resource/BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene20/BigClass_EasyAddCalculation_big_page_scene20.json HTTP/1.1" 200 298 "http://localhost:8080/remote-assets/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:29:43.180] [INFO] normal - ::1 - - "GET /remote-assets/resource/BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene8/BigClass_EasyAddCalculation_big_page_scene8.json HTTP/1.1" 200 402 "http://localhost:8080/remote-assets/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:29:43.183] [INFO] normal - ::1 - - "GET /remote-assets/resource/BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene1/BigClass_EasyAddCalculation_big_page_scene1.json HTTP/1.1" 200 1197 "http://localhost:8080/remote-assets/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:29:43.185] [INFO] normal - ::1 - - "GET /remote-assets/resource/BigClass_EasyAddCalculation/assets/BigClass_FindDifferenceDown_page_scene12/res3.png HTTP/1.1" 200 94162 "http://localhost:8080/remote-assets/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:29:43.185] [INFO] normal - ::1 - - "GET /remote-assets/resource/gamemain/assets/preload/main_preload.png HTTP/1.1" 200 19264 "http://localhost:8080/remote-assets/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:29:43.188] [INFO] normal - ::1 - - "GET /remote-assets/resource/BigClass_EasyAddCalculation/assets/BigClass_FindDifferenceDown_page_scene12/BigClass_FindDifferenceDown_big_page_scene12.png HTTP/1.1" 200 125315 "http://localhost:8080/remote-assets/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:29:43.192] [INFO] normal - ::1 - - "GET /remote-assets/resource/BigClass_EasyAddCalculation/assets/BigClass_FindDifferenceDown_page_scene12/BigClass_FindDifferenceDown_page_scene_bg12.jpg HTTP/1.1" 200 169244 "http://localhost:8080/remote-assets/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:29:43.192] [INFO] normal - ::1 - - "GET /remote-assets/resource/BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene20/BigClass_EasyAddCalculation_big_page_scene20.png HTTP/1.1" 200 184923 "http://localhost:8080/remote-assets/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:29:43.193] [INFO] normal - ::1 - - "GET /remote-assets/resource/BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene8/BigClass_EasyAddCalculation_big_page_scene8.png HTTP/1.1" 200 9247 "http://localhost:8080/remote-assets/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-08-27T15:29:43.195] [INFO] normal - ::1 - - "GET /remote-assets/resource/BigClass_EasyAddCalculation/assets/BigClass_EasyAddCalculation_page_scene1/BigClass_EasyAddCalculation_big_page_scene1.png HTTP/1.1" 200 8898 "http://localhost:8080/remote-assets/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"

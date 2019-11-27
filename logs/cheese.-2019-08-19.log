@@ -1,0 +1,90 @@
+[2019-08-19T12:19:59.063] [DEBUG] normal - ====================接收微信服务器的消息===========================
+[2019-08-19T12:19:59.063] [INFO] normal - 微信给的参数为： bcbfda8d1fdeb0792987a0c0895b43fbd9c2ea71 3300353876566931326 1566188398 578088644
+[2019-08-19T12:19:59.065] [INFO] normal - 当前的签名是： bcbfda8d1fdeb0792987a0c0895b43fbd9c2ea71
+[2019-08-19T12:19:59.094] [INFO] normal - 103.7.30.106 - - "GET /message?signature=bcbfda8d1fdeb0792987a0c0895b43fbd9c2ea71&echostr=3300353876566931326&timestamp=1566188398&nonce=578088644 HTTP/1.0" 200 - "" "Mozilla/4.0"
+[2019-08-19T18:50:45.090] [INFO] normal - ========result is ======== { ToUserName: 'gh_ee55984ecc6c',
+  FromUserName: 'oQtuAtz6jB6v6FYM9g51q3XLWAvc',
+  CreateTime: '1566211843',
+  MsgType: 'text',
+  Content: '你提',
+  MsgId: '22422763118398316' }
+[2019-08-19T18:50:45.091] [INFO] normal - ======消息到达消息门服务器=======
+[2019-08-19T18:50:45.333] [INFO] normal - 103.7.30.106 - - "POST /message?signature=a6b9182d1d1771602dc3109ad4a89522b0a62c33&timestamp=1566211844&nonce=1088341567&openid=oQtuAtz6jB6v6FYM9g51q3XLWAvc HTTP/1.1" 200 315 "" "Mozilla/4.0"
+[2019-08-19T19:06:11.490] [INFO] normal - ========result is ======== { ToUserName: 'gh_ee55984ecc6c',
+  FromUserName: 'oQtuAtz6jB6v6FYM9g51q3XLWAvc',
+  CreateTime: '1566212770',
+  MsgType: 'event',
+  Event: 'CLICK',
+  EventKey: 'V1001_GOOD' }
+[2019-08-19T19:06:16.815] [INFO] normal - ========result is ======== { ToUserName: 'gh_ee55984ecc6c',
+  FromUserName: 'oQtuAtz6jB6v6FYM9g51q3XLWAvc',
+  CreateTime: '1566212770',
+  MsgType: 'event',
+  Event: 'CLICK',
+  EventKey: 'V1001_GOOD' }
+[2019-08-19T19:06:21.731] [INFO] normal - ========result is ======== { ToUserName: 'gh_ee55984ecc6c',
+  FromUserName: 'oQtuAtz6jB6v6FYM9g51q3XLWAvc',
+  CreateTime: '1566212780',
+  MsgType: 'event',
+  Event: 'CLICK',
+  EventKey: 'V1001_TODAY_MUSIC' }
+[2019-08-19T19:06:22.114] [INFO] normal - ========result is ======== { ToUserName: 'gh_ee55984ecc6c',
+  FromUserName: 'oQtuAtz6jB6v6FYM9g51q3XLWAvc',
+  CreateTime: '1566212770',
+  MsgType: 'event',
+  Event: 'CLICK',
+  EventKey: 'V1001_GOOD' }
+[2019-08-19T19:06:24.830] [INFO] normal - ========result is ======== { ToUserName: 'gh_ee55984ecc6c',
+  FromUserName: 'oQtuAtz6jB6v6FYM9g51q3XLWAvc',
+  CreateTime: '1566212783',
+  MsgType: 'event',
+  Event: 'VIEW',
+  EventKey: 'http://www.soso.com/',
+  MenuId: '467272274' }
+[2019-08-19T19:06:27.022] [INFO] normal - ========result is ======== { ToUserName: 'gh_ee55984ecc6c',
+  FromUserName: 'oQtuAtz6jB6v6FYM9g51q3XLWAvc',
+  CreateTime: '1566212780',
+  MsgType: 'event',
+  Event: 'CLICK',
+  EventKey: 'V1001_TODAY_MUSIC' }
+[2019-08-19T19:06:30.097] [INFO] normal - ========result is ======== { ToUserName: 'gh_ee55984ecc6c',
+  FromUserName: 'oQtuAtz6jB6v6FYM9g51q3XLWAvc',
+  CreateTime: '1566212783',
+  MsgType: 'event',
+  Event: 'VIEW',
+  EventKey: 'http://www.soso.com/',
+  MenuId: '467272274' }
+[2019-08-19T19:06:31.540] [INFO] normal - ========result is ======== { ToUserName: 'gh_ee55984ecc6c',
+  FromUserName: 'oQtuAtz6jB6v6FYM9g51q3XLWAvc',
+  CreateTime: '1566212790',
+  MsgType: 'event',
+  Event: 'view_miniprogram',
+  EventKey: 'pages/lunar/index',
+  MenuId: '467272274' }
+[2019-08-19T19:06:32.358] [INFO] normal - ========result is ======== { ToUserName: 'gh_ee55984ecc6c',
+  FromUserName: 'oQtuAtz6jB6v6FYM9g51q3XLWAvc',
+  CreateTime: '1566212780',
+  MsgType: 'event',
+  Event: 'CLICK',
+  EventKey: 'V1001_TODAY_MUSIC' }
+[2019-08-19T19:06:35.430] [INFO] normal - ========result is ======== { ToUserName: 'gh_ee55984ecc6c',
+  FromUserName: 'oQtuAtz6jB6v6FYM9g51q3XLWAvc',
+  CreateTime: '1566212783',
+  MsgType: 'event',
+  Event: 'VIEW',
+  EventKey: 'http://www.soso.com/',
+  MenuId: '467272274' }
+[2019-08-19T19:06:36.865] [INFO] normal - ========result is ======== { ToUserName: 'gh_ee55984ecc6c',
+  FromUserName: 'oQtuAtz6jB6v6FYM9g51q3XLWAvc',
+  CreateTime: '1566212790',
+  MsgType: 'event',
+  Event: 'view_miniprogram',
+  EventKey: 'pages/lunar/index',
+  MenuId: '467272274' }
+[2019-08-19T19:06:42.207] [INFO] normal - ========result is ======== { ToUserName: 'gh_ee55984ecc6c',
+  FromUserName: 'oQtuAtz6jB6v6FYM9g51q3XLWAvc',
+  CreateTime: '1566212790',
+  MsgType: 'event',
+  Event: 'view_miniprogram',
+  EventKey: 'pages/lunar/index',
+  MenuId: '467272274' }
