@@ -1,137 +1,63 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
-
 <head>
-    <meta charset="utf-8">
-    <title>海豚思维</title>
-    <meta name="viewport" content="width=device-width,initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
-    <meta name="apple-mobile-web-app-capable" content="yes" />
-    <meta name="full-screen" content="true" />
-    <meta name="screen-orientation" content="portrait" />
-    <meta name="x5-fullscreen" content="true" />
-    <meta name="360-fullscreen" content="true" />
-    <script>
+  <meta charset="utf-8">
 
-        var myDate = new Date().getTime();
-        console.log("开始时间:"+myDate)
-    
-    </script>
-    <style>
-        html, body {
-           /*-ms-touch-action: none;*/
-            background: #FFFFFF;
-            padding: 0;
-            border: 0;
-            margin: 0;
-            height: 100%;
-            overflow: hidden;
-        }
-    </style>
+  <title>Cocos Creator | H1_V1</title>
+
+  <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1, minimum-scale=1,maximum-scale=1"/>
+  <meta name="apple-mobile-web-app-capable" content="yes"/>
+  <meta name="full-screen" content="yes"/>
+  <meta name="screen-orientation" content="portrait"/>
+  <meta name="x5-fullscreen" content="true"/>
+  <meta name="360-fullscreen" content="true"/>
+  
+  <meta name="renderer" content="webkit"/>
+  <meta name="force-rendering" content="webkit"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+  
+  <link rel="stylesheet" type="text/css" href="style-desktop.ec961.css"/>
 </head>
-
 <body>
+<h1 class="header">H1_V1</h1>
 
-    <div style="margin: auto;width: 100%;height: 100%;" class="egret-player"
-         data-entry-class="Main"
-         data-orientation="auto"
-         data-scale-mode="showAll"
-         data-frame-rate="30"
-         data-multi-fingered="1"
-         data-content-width="1562"
-         data-content-height="1348"
-         data-show-fps="false" data-show-log="false"
-         data-show-fps-style="x:0,y:0,size:20,textColor:0xffffff,bgAlpha:0.9">
+<div id="GameDiv" style="width:1280px; height: 720px;">
+  <canvas id="GameCanvas" width="1280" height="720"></canvas>
+  <div id="splash">
+    <div class="progress-bar stripes">
+      <span style="width: 0%"></span>
     </div>
+  </div>
+</div>
 
-<script>
+<p class="footer">Created with <a href="http://cocos.com/cocoscreator" title="cocos creator">Cocos Creator</a></p>
 
-    var startGame = function() {
-        /**
-         * {
-         * "renderMode":, //Engine rendering mode, "canvas" or "webgl"
-         * "audioType": 0 //Use the audio type, 0: default, 2: web audio, 3: audio
-         * "antialias": //Whether the anti-aliasing is enabled in WebGL mode, true: on, false: off, defaults to false
-         * "calculateCanvasScaleFactor": //a function return canvas scale factor
-         * }
-         **/
-        egret.runEgret({ renderMode: "canvas", audioType: 0, calculateCanvasScaleFactor:function(context) {
-            var backingStore = context.backingStorePixelRatio ||
-                context.webkitBackingStorePixelRatio ||
-                context.mozBackingStorePixelRatio ||
-                context.msBackingStorePixelRatio ||
-                context.oBackingStorePixelRatio ||
-                context.backingStorePixelRatio || 1;
-            return (window.devicePixelRatio || 1) / backingStore;
-        }});
+<script src="src/settings.d0cb1.js" charset="utf-8"></script>
+<script src="main.6e25f.js" charset="utf-8"></script>
+
+<script type="text/javascript">
+(function () {
+    // open web debugger console
+    if (typeof VConsole !== 'undefined') {
+        window.vConsole = new VConsole();
     }
 
-    //脚本队列
-    var queueScripts = [];
-    var loadIndex = 0;
+    var splash = document.getElementById('splash');
+    splash.style.display = 'block';
 
-    var loadScriptXhrInjection = function(url){
-        var qL = queueScripts.length;
-        var qScript = {key:url, response: null, done: false}; 
-        queueScripts[qL] = qScript;
-        var xhrObj = new XMLHttpRequest();
-        xhrObj.onreadystatechange = function() {
-            if(xhrObj.readyState == 4 && xhrObj.status == 200){
-                //有顺序要求的脚本需要添加的队列，按添加顺序执行
-                queueScripts[qL].response = xhrObj.responseText;
+    var cocos2d = document.createElement('script');
+    cocos2d.async = true;
+    cocos2d.src = window._CCSettings.debug ? 'cocos2d-js.js' : 'cocos2d-js-min.3570d.js';
 
-                var enddate = new Date().getTime();
-                var gap = enddate - myDate;
-                console.log(url + "下载完成:" + gap)
-
-                //执行脚本队列
-                injectScripts();
-            }
-        }
-        console.log("开始下载url:" + url)
-        xhrObj.open("GET", url, true);
-        xhrObj.send(null);
-    }
-
-    var injectScripts =  function(){
-        var len = queueScripts.length;
-        //按顺序执行队列中的脚本
-        for (var i = 0; i < len; i++) {
-            var qScript = queueScripts[i];
-            //没有执行
-            if(!qScript.done){
-                //没有加载完成
-                if(!qScript.response){
-                    //停止，等待加载完成, 由于脚本是按顺序添加到队列的，因此这里保证了脚本的执行顺序
-                    break;
-                }else{//已经加载完成了
-                    var script = document.createElement("script");
-                    document.getElementsByTagName("head")[0].appendChild(script);
-                    script.text = qScript.response;
-                    qScript.done = true;
-                    loadIndex++;
-                    console.log("加载url:"+qScript.key)
-                }
-            }
-        };
-
-        if(loadIndex === len){
-            startGame();
-        }
+    var engineLoaded = function () {
+        document.body.removeChild(cocos2d);
+        cocos2d.removeEventListener('load', engineLoaded, false);
+        window.boot();
     };
-
-    var xhr = new XMLHttpRequest();
-    xhr.open('GET', './manifest.json?v=' + Math.random(), true);
-    xhr.addEventListener("load", function () {
-        var manifest = JSON.parse(xhr.response);
-        var list = manifest.initial.concat(manifest.game);
-        list.forEach(function(element) {
-            loadScriptXhrInjection(element);
-        }, this);
-    });
-    xhr.send(null);
-
+    cocos2d.addEventListener('load', engineLoaded, false);
+    document.body.appendChild(cocos2d);
+})();
 </script>
 
 </body>
-
 </html>

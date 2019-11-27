@@ -13,6 +13,7 @@ const crypto = require("crypto");
 const multer = require("multer");
 const path = require("path");
 const uzip = require("unzip");
+// const db = require("../db/index");
 let upload = multer({
     dest: "../upload/"
 })
@@ -204,4 +205,13 @@ router.post("/upload",upload.single("fileItem"),(req,res) => {
         
     }
 })
+/**
+ * 
+ * ====================Login========================
+ * 
+ */
+// router.post("/login",(req,res) => {
+    
+//     db.queryUser();
+// })
 module.exports = router;
