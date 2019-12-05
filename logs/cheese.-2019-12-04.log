@@ -1,0 +1,226 @@
+[2019-12-04T11:47:26.885] [INFO] normal - ===========>>data is  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>上传文件</title>
+</head>
+<body>
+    <form method="POST" action="/message/upload" enctype="multipart/form-data">
+        <input type="file" id="file" name="fileItem" multiple="multiple" value="" accept="application/x-zip-compressed">
+        <input type="submit" value="提交">
+    </form>
+</body>
+</html>
+[2019-12-04T11:47:26.890] [INFO] normal - ::1 - - "GET /message/upload HTTP/1.1" 200 534 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-04T11:47:26.958] [INFO] normal - ::1 - - "GET /favicon.ico HTTP/1.1" 404 150 "http://localhost:8080/message/upload" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-04T11:47:41.629] [INFO] normal - deal upload file filename is  upload/spector.zip
+[2019-12-04T11:50:01.850] [INFO] normal - ===========>>data is  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>上传文件</title>
+</head>
+<body>
+    <form method="POST" action="/message/upload" enctype="multipart/form-data">
+        <input type="file" id="file" name="fileItem" multiple="multiple" value="" accept="application/x-zip-compressed">
+        <input type="submit" value="提交">
+    </form>
+</body>
+</html>
+[2019-12-04T11:50:01.856] [INFO] normal - ::1 - - "GET /message/upload HTTP/1.1" 304 - "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-04T11:50:07.067] [INFO] normal - deal upload file filename is  upload/spector.zip
+[2019-12-04T11:51:51.799] [INFO] normal - ===========>>data is  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>上传文件</title>
+</head>
+<body>
+    <form method="POST" action="/message/upload" enctype="multipart/form-data">
+        <input type="file" id="file" name="fileItem" multiple="multiple" value="" accept="application/x-zip-compressed">
+        <input type="submit" value="提交">
+    </form>
+</body>
+</html>
+[2019-12-04T11:51:51.805] [INFO] normal - ::1 - - "GET /message/upload HTTP/1.1" 304 - "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-04T11:51:57.321] [INFO] normal - upload file extName is  .zip
+[2019-12-04T11:51:57.321] [INFO] normal - deal upload file filename is  upload/spector.zip
+[2019-12-04T11:52:51.626] [INFO] normal - ===========>>data is  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>上传文件</title>
+</head>
+<body>
+    <form method="POST" action="/message/upload" enctype="multipart/form-data">
+        <input type="file" id="file" name="fileItem" multiple="multiple" value="" accept="application/x-zip-compressed">
+        <input type="submit" value="提交">
+    </form>
+</body>
+</html>
+[2019-12-04T11:52:51.632] [INFO] normal - ::1 - - "GET /message/upload HTTP/1.1" 304 - "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-04T11:52:57.122] [INFO] normal - =========file.originalname is  spector.zip
+[2019-12-04T11:52:57.122] [INFO] normal - upload file extName is  .zip
+[2019-12-04T11:52:57.123] [INFO] normal - deal upload file filename is  upload/spector.zip
+[2019-12-04T11:55:17.566] [INFO] normal - ===========>>data is  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>上传文件</title>
+</head>
+<body>
+    <form method="POST" action="/message/upload" enctype="multipart/form-data">
+        <input type="file" id="file" name="fileItem" multiple="multiple" value="" accept="application/x-zip-compressed">
+        <input type="submit" value="提交">
+    </form>
+</body>
+</html>
+[2019-12-04T11:55:17.572] [INFO] normal - ::1 - - "GET /message/upload HTTP/1.1" 304 - "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-04T11:55:23.061] [INFO] normal - =========file.originalname is  spector.zip
+[2019-12-04T11:55:23.061] [INFO] normal - upload file extName is  .zip
+[2019-12-04T11:55:23.061] [INFO] normal - deal upload file filename is  upload/spector.zip
+[2019-12-04T11:55:23.063] [INFO] normal - ==============extName is  .zip==============
+[2019-12-04T12:01:10.330] [INFO] normal - ===========>>data is  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>上传文件</title>
+</head>
+<body>
+    <form method="POST" action="/message/upload" enctype="multipart/form-data">
+        <input type="file" id="file" name="fileItem" multiple="multiple" value="" accept="application/x-zip-compressed">
+        <input type="submit" value="提交">
+    </form>
+</body>
+</html>
+[2019-12-04T12:01:10.337] [INFO] normal - ::1 - - "GET /message/upload HTTP/1.1" 304 - "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-04T12:01:15.762] [INFO] normal - =========file.originalname is  spector.zip
+[2019-12-04T12:01:15.762] [INFO] normal - upload file extName is  .zip
+[2019-12-04T12:01:15.762] [INFO] normal - deal upload file filename is  upload/spector.zip
+[2019-12-04T12:01:15.763] [INFO] normal - ==============extName is  .zip==============
+[2019-12-04T12:01:15.777] [ERROR] normal - error args is  Error: invalid signature: 0x34327243
+    at C:\Users\17838\Desktop\game_detail\study\nodejs\node_modules\unzip\lib\parse.js:59:13
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+[2019-12-04T12:03:15.775] [INFO] normal - =========file.originalname is  spector.zip
+[2019-12-04T12:03:15.776] [INFO] normal - upload file extName is  .zip
+[2019-12-04T12:03:15.776] [INFO] normal - deal upload file filename is  upload/spector.zip
+[2019-12-04T12:03:15.780] [INFO] normal - ==============extName is  .zip==============
+[2019-12-04T12:04:06.887] [INFO] normal - ===========>>data is  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>上传文件</title>
+</head>
+<body>
+    <form method="POST" action="/message/upload" enctype="multipart/form-data">
+        <input type="file" id="file" name="fileItem" multiple="multiple" value="" accept="application/x-zip-compressed">
+        <input type="submit" value="提交">
+    </form>
+</body>
+</html>
+[2019-12-04T12:04:06.892] [INFO] normal - ::1 - - "GET /message/upload HTTP/1.1" 304 - "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-04T12:04:11.687] [INFO] normal - =========file.originalname is  spector.zip
+[2019-12-04T12:04:11.687] [INFO] normal - upload file extName is  .zip
+[2019-12-04T12:04:11.687] [INFO] normal - deal upload file filename is  upload/spector.zip
+[2019-12-04T12:04:11.689] [INFO] normal - ==============extName is  .zip==============
+[2019-12-04T13:12:41.574] [INFO] normal - ===========>>data is  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>上传文件</title>
+</head>
+<body>
+    <form method="POST" action="/message/upload" enctype="multipart/form-data">
+        <input type="file" id="file" name="fileItem" multiple="multiple" value="" accept="application/x-zip-compressed">
+        <input type="submit" value="提交">
+    </form>
+</body>
+</html>
+[2019-12-04T13:12:41.581] [INFO] normal - ::1 - - "GET /message/upload HTTP/1.1" 304 - "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-04T13:12:47.368] [INFO] normal - =========file.originalname is  spector.zip
+[2019-12-04T13:12:47.368] [INFO] normal - upload file extName is  .zip
+[2019-12-04T13:12:47.368] [INFO] normal - deal upload file filename is  upload/spector.zip
+[2019-12-04T13:12:47.370] [INFO] normal - ==============extName is  .zip==============
+[2019-12-04T13:12:47.374] [INFO] normal - ::::::::::::;
+[2019-12-04T13:14:47.372] [INFO] normal - =========file.originalname is  spector.zip
+[2019-12-04T13:14:47.372] [INFO] normal - upload file extName is  .zip
+[2019-12-04T13:14:47.372] [INFO] normal - deal upload file filename is  upload/spector.zip
+[2019-12-04T13:14:47.373] [INFO] normal - ==============extName is  .zip==============
+[2019-12-04T13:14:47.374] [INFO] normal - ::::::::::::;
+[2019-12-04T13:14:47.376] [INFO] normal - ::1 - - "POST /message/upload HTTP/1.1" 200 14 "http://localhost:8080/message/upload" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-04T13:15:01.458] [INFO] normal - ===========>>data is  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>上传文件</title>
+</head>
+<body>
+    <form method="POST" action="/message/upload" enctype="multipart/form-data">
+        <input type="file" id="file" name="fileItem" multiple="multiple" value="" accept="application/x-zip-compressed">
+        <input type="submit" value="提交">
+    </form>
+</body>
+</html>
+[2019-12-04T13:15:01.463] [INFO] normal - ::1 - - "GET /message/upload HTTP/1.1" 200 534 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-04T13:15:07.412] [INFO] normal - =========file.originalname is  bezierTest.zip
+[2019-12-04T13:15:07.412] [INFO] normal - upload file extName is  .zip
+[2019-12-04T13:15:07.412] [INFO] normal - deal upload file filename is  upload/bezierTest.zip
+[2019-12-04T13:15:07.415] [INFO] normal - ==============extName is  .zip==============
+[2019-12-04T13:15:07.631] [INFO] normal - =============upload success================
+[2019-12-04T13:15:07.632] [INFO] normal - ::1 - - "POST /message/upload HTTP/1.1" 200 7 "http://localhost:8080/message/upload" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-04T13:15:09.374] [INFO] normal - ===========>>data is  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>上传文件</title>
+</head>
+<body>
+    <form method="POST" action="/message/upload" enctype="multipart/form-data">
+        <input type="file" id="file" name="fileItem" multiple="multiple" value="" accept="application/x-zip-compressed">
+        <input type="submit" value="提交">
+    </form>
+</body>
+</html>
+[2019-12-04T13:15:09.375] [INFO] normal - ::1 - - "GET /message/upload HTTP/1.1" 200 534 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-04T13:15:10.911] [INFO] normal - ===========>>data is  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>上传文件</title>
+</head>
+<body>
+    <form method="POST" action="/message/upload" enctype="multipart/form-data">
+        <input type="file" id="file" name="fileItem" multiple="multiple" value="" accept="application/x-zip-compressed">
+        <input type="submit" value="提交">
+    </form>
+</body>
+</html>
+[2019-12-04T13:15:10.913] [INFO] normal - ::1 - - "GET /message/upload HTTP/1.1" 304 - "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-04T13:15:15.447] [INFO] normal - =========file.originalname is  spector.zip
+[2019-12-04T13:15:15.447] [INFO] normal - upload file extName is  .zip
+[2019-12-04T13:15:15.448] [INFO] normal - deal upload file filename is  upload/spector.zip
+[2019-12-04T13:15:15.449] [INFO] normal - ==============extName is  .zip==============

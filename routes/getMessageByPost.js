@@ -170,10 +170,13 @@ router.get("/upload",(req,res) => {
 router.post("/upload",upload.single("fileItem"),(req,res) => {
     let logger = Util.getLogger();
     let file = req.file;
+    logger.info("=========file.originalname is ",file.originalname);
     let extName = path.extname(file.originalname);
+    logger.info("upload file extName is ",extName);
     let n = path.basename(file.originalname).lastIndexOf(".");
     let nstr = file.originalname.substring(0,n);
     let filename = "upload/" + nstr + extName;
+    logger.info("deal upload file filename is ",filename);
     fs.exists(filename,(exists) => {
         if(!exists) {
             return;
@@ -186,9 +189,11 @@ router.post("/upload",upload.single("fileItem"),(req,res) => {
         fs.rename(file.path,filename,() => {
             console.log("重命名成功");
             if(extName === ".zip") {
+                logger.info("==============extName is ",extName + "==============");
                 // 开始解压
                 fs.createReadStream(filename).on("error",() => {
                     console.log("解压失败");
+                    res.send("compress error");
                 }).on("close",() => {
                     console.log("关闭");
                     // 删除zip文件
