@@ -39,6 +39,7 @@ app.use("/egret-game",express.static(path.join(__dirname,"egret-game")));
 app.use("/linegame",express.static(path.join(__dirname,"linegame")));
 app.use("/remote-assets",express.static(path.join(__dirname,"upload/remote-assets")));
 app.use("/onetwosteps/3d/",express.static(path.join(__dirname,"oneTwoStep3D")));
+app.use("/movingup",express.static(path.join(__dirname,"movingupgame")));
 
 app.all("*",(req,res,next) => {
   res.header("Access-Control-Allow-Origin","*");
