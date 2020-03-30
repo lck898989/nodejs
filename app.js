@@ -51,6 +51,6 @@ app.all("*",(req,res,next) => {
   else 
       next();
 });
-app.listen(8081,()=> {
+app.listen(8080,()=> {
 	console.log("app is running on port 8080");
 })
