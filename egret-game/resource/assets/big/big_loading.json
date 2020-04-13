@@ -1,0 +1,8 @@
+{"file":"big_loading.png","frames":{
+"loading_haitun_png":{"x":0,"y":0,"w":323,"h":426,"offX":0,"offY":0,"sourceW":323,"sourceH":426},
+"bg_ball_png":{"x":325,"y":360,"w":89,"h":89,"offX":0,"offY":0,"sourceW":89,"sourceH":89},
+"clickbtn_png":{"x":325,"y":0,"w":126,"h":126,"offX":0,"offY":0,"sourceW":126,"sourceH":126},
+"dolphin_png":{"x":325,"y":128,"w":114,"h":122,"offX":37,"offY":15,"sourceW":180,"sourceH":180},
+"dolphin_arm_png":{"x":416,"y":393,"w":41,"h":17,"offX":76,"offY":40,"sourceW":180,"sourceH":180},
+"font_loading_png":{"x":416,"y":360,"w":80,"h":31,"offX":0,"offY":0,"sourceW":80,"sourceH":31},
+"update_png":{"x":325,"y":252,"w":119,"h":106,"offX":3,"offY":10,"sourceW":126,"sourceH":126}}}

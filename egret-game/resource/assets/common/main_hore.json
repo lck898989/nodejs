@@ -1,0 +1,37 @@
+{"mc":{
+	"main_hore":{
+		"frameRate":30,
+		"labels":[
+			{"name":"ring","frame":1,"end":30}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"4BDAF6E7",
+			"x":22,
+			"y":23,
+			"duration":9
+			},
+			{
+			"res":"7B710DD7",
+			"x":22,
+			"y":23,
+			"duration":10
+			},
+			{
+			"res":"98FD02D7",
+			"x":22,
+			"y":23,
+			"duration":11
+			}
+			]
+}},
+	"res":{
+		"7B710DD7":{"x":60,"y":1,"w":49,"h":54},
+		"98FD02D7":{"x":1,"y":1,"w":57,"h":54},
+		"4BDAF6E7":{"x":1,"y":57,"w":40,"h":54}
+	}}
